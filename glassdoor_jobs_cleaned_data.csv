@@ -1,0 +1,957 @@
+Rating,Company_Name,Headquarters,Founded,Type_of_ownership,Industry,Sector,Revenue,Min_Salary,Max_Salary,Avg_Salary,Job_State,new_job_title,Year_of_Operation,Business_Size,Python,Excel,Tableau,Power_BI,SQL,AWS,Hadoop,Azure,Spark,Machine_Learning,Matlab
+3.8,Tecolote Research,"Goleta, CA",1973,Company - Private,Aerospace & Defense,Aerospace & Defense,$50 to $100 million ,53.0,91,72.0,NM,Data Scientist,52,Large Business,1,1,1,1,0,0,0,0,0,1,1
+3.4,University of Maryland Medical System,"Baltimore, MD",1984,Other Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion ,63.0,112,87.5,MD,Data Scientist,41,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+4.8,KnowBe4,"Clearwater, FL",2010,Company - Private,Security Services,Business Services,$100 to $500 million ,80.0,90,85.0,FL,Data Scientist,15,Large Business,1,1,0,0,1,0,0,0,1,1,0
+3.8,PNNL,"Richland, WA",1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion ,56.0,97,76.5,WA,Data Scientist,60,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+2.9,Affinity Solutions,"New York, NY",1998,Company - Private,Advertising & Marketing,Business Services,Unknown,86.0,143,114.5,NY,Data Scientist,27,Medium Business,1,1,0,0,1,0,0,0,0,1,0
+3.4,CyrusOne,"Dallas, TX",2000,Company - Public,Real Estate,Real Estate,$1 to $2 billion ,71.0,119,95.0,TX,Data Scientist,25,Large Business,1,1,0,1,1,1,0,1,0,1,0
+4.1,ClearOne Advantage,"Baltimore, MD",2008,Company - Private,Banks & Credit Unions,Finance,Unknown,54.0,93,73.5,MD,Data Scientist,17,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.8,Logic20/20,"Seattle, WA",2005,Company - Private,Consulting,Business Services,$25 to $50 million ,86.0,142,114.0,CA,Data Scientist,20,Large Business,1,1,0,0,1,1,0,0,1,1,0
+3.3,Rochester Regional Health,"Rochester, NY",2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion ,38.0,84,61.0,NY,Data Scientist,11,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.6,<intent>,"New York, NY",2009,Company - Private,Internet,Information Technology,$100 to $500 million ,120.0,160,140.0,NY,Data Scientist,16,Medium Business,1,0,0,0,0,0,0,0,1,1,0
+3.5,Wish,"San Francisco, CA",2011,Company - Private,Other Retail Stores,Retail,$1 to $2 billion ,126.0,201,163.5,CA,Data Scientist,14,Large Business,1,0,0,0,0,0,0,0,0,1,0
+4.1,ManTech,"Herndon, VA",1968,Company - Public,Research & Development,Business Services,$1 to $2 billion ,64.0,106,85.0,VA,Data Scientist,57,Enterprise Business,0,0,0,0,1,0,1,0,0,1,0
+3.2,Walmart,"Bentonville, AR",1962,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion ,106.0,172,139.0,TX,Data Scientist,63,Enterprise Business,0,0,0,0,1,0,1,0,0,0,1
+4.1,Yesler,"Seattle, WA",2012,Company - Private,Advertising & Marketing,Business Services,Unknown,46.0,85,65.5,WA,Data Analyst,13,Large Business,1,1,1,1,1,1,0,1,1,0,0
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,83.0,144,113.5,MA,Data Scientist,244,Enterprise Business,1,0,0,0,1,0,0,0,1,1,0
+3.6,Audible,"Newark, NJ",1995,Subsidiary or Business Segment,Motion Picture Production & Distribution,Media,Unknown,102.0,190,146.0,NJ,Data Engineer,30,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.9,Blueprint Medicines,"Cambridge, MA",2011,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million ,67.0,137,102.0,MA,Other,14,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+4.3,h2o.ai,"Mountain View, CA",2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,118.0,189,153.5,CA,Data Scientist,14,Large Business,1,1,0,0,0,1,1,1,1,1,0
+4.2,Nuna,"San Francisco, CA",2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,110.0,175,142.5,CA,Data Analyst,15,Medium Business,0,0,0,0,1,0,0,0,0,1,0
+4.0,Pinnacol Assurance,"Denver, CO",1915,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion ,64.0,111,87.5,CO,Data Scientist,110,Large Business,1,1,0,0,1,0,0,0,0,1,0
+3.2,Porch,"Seattle, WA",2012,Company - Private,Internet,Information Technology,Unknown,81.0,130,105.5,WA,Data Scientist,13,Large Business,1,0,0,0,1,0,0,0,1,1,0
+3.9,Health IQ,"Mountain View, CA",2013,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown,73.0,119,96.0,TX,Data Scientist,12,Large Business,0,1,0,0,0,0,0,0,0,1,0
+3.8,Truckstop.com,"New Plymouth, ID",1995,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown,86.0,139,112.5,IL,Data Scientist,30,Large Business,1,1,0,0,1,1,0,0,0,1,0
+4.3,SMC 3,"Peachtree City, GA",1935,Nonprofit Organization,Logistics & Supply Chain,Transportation & Logistics,$10 to $25 million ,63.0,105,84.0,KY,Data Scientist,90,Medium Business,1,1,1,0,1,0,0,0,0,0,0
+3.9,Mars,"Mc Lean, VA",1911,Company - Private,Food & Beverage Manufacturing,Manufacturing,$10+ billion ,,1,,OR,Data Scientist,114,Enterprise Business,1,0,0,0,0,1,0,0,1,1,0
+4.0,Novetta,"Mc Lean, VA",2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million ,109.0,177,143.0,VA,Data Scientist,13,Large Business,1,0,0,0,0,1,0,0,0,1,0
+4.0,Pfizer,"New York, NY",1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,63.0,110,86.5,MA,Data Scientist,176,Enterprise Business,1,1,0,0,0,1,0,0,0,1,1
+3.5,First Tech Federal Credit Union,"San Jose, CA",1952,Company - Private,Banks & Credit Unions,Finance,$100 to $500 million ,75.0,124,99.5,OR,Data Scientist,73,Enterprise Business,1,1,1,0,1,1,0,0,1,1,0
+3.7,The Hanover Insurance Group,"Worcester, MA",1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion ,34.0,61,47.5,MA,Data Analyst,173,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.0,Pfizer,"New York, NY",1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,63.0,105,84.0,CT,Data Scientist,176,Enterprise Business,0,1,0,0,0,1,0,0,0,0,0
+4.8,KnowBe4,"Clearwater, FL",2010,Company - Private,Security Services,Business Services,$100 to $500 million ,80.0,90,85.0,FL,Data Scientist,15,Large Business,1,1,0,0,1,0,0,0,1,1,0
+3.8,PNNL,"Richland, WA",1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion ,56.0,97,76.5,WA,Data Scientist,60,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+3.6,Amrock,"Detroit, MI",1997,Company - Private,Real Estate,Real Estate,$500 million to $1 billion ,72.0,120,96.0,MI,Data Scientist,28,Enterprise Business,1,0,0,0,1,0,0,0,0,1,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,86.0,143,114.5,MA,Data Scientist,29,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+3.8,Juniper Networks,"Sunnyvale, CA",1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion ,93.0,149,121.0,CA,Data Scientist,29,Enterprise Business,1,1,0,0,1,0,0,0,1,1,0
+4.7,New England Biolabs,"Ipswich, MA",1974,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,85.0,140,112.5,MA,Data Scientist,51,Large Business,1,1,0,0,0,0,0,0,0,0,0
+4.2,Clarity Insights,"Chicago, IL",2008,Company - Private,IT Services,Information Technology,Unknown,77.0,135,106.0,CA,Data Analyst,17,Large Business,1,1,1,1,1,0,0,0,0,0,0
+3.5,Esri,"Redlands, CA",1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion ,82.0,132,107.0,CA,Data Scientist,56,Enterprise Business,1,0,1,0,0,1,1,1,1,1,0
+4.7,Systems & Technology Research,"Woburn, MA",2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million ,83.0,137,110.0,MA,Data Scientist,15,Large Business,1,1,0,0,1,0,1,0,1,1,0
+3.5,Sartorius,"Gottingen, Germany",1870,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion ,115.0,180,147.5,CA,Data Scientist,155,Enterprise Business,1,1,0,0,0,0,0,0,0,1,1
+3.5,Lancer Insurance,"Long Beach, NY",1985,Company - Private,Insurance Carriers,Insurance,$100 to $500 million ,74.0,138,106.0,NY,Data Engineer,40,Large Business,1,1,0,0,1,0,0,0,0,0,0
+4.2,Sauce Labs,"San Francisco, CA",2008,Company - Private,IT Services,Information Technology,$50 to $100 million ,64.0,112,88.0,CA,Data Analyst,17,Large Business,1,1,1,0,1,1,0,0,0,0,0
+4.1,Amount,"Chicago, IL",2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,,1,,IL,Data Scientist,10,Large Business,1,0,0,0,0,0,0,0,0,1,0
+3.6,Persivia,"Lowell, MA",2025,Company - Private,Other Industries,Other Sector,Less than $1 million ,68.0,129,98.5,MA,Data Engineer,0,Small Business,0,1,0,0,1,0,0,0,0,0,0
+4.2,Nuna,"San Francisco, CA",2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,110.0,175,142.5,CA,Data Scientist,15,Medium Business,0,0,0,0,0,0,0,0,0,1,0
+3.4,Edgewell Personal Care,"Shelton, CT",2015,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion ,52.0,113,82.5,NJ,Other,10,Enterprise Business,0,0,0,0,0,1,0,0,0,0,0
+4.3,Equity Residential,"Chicago, IL",1993,Company - Public,Real Estate,Real Estate,$2 to $5 billion ,110.0,150,130.0,IL,Data Scientist,32,Enterprise Business,1,1,1,0,1,0,1,0,1,1,0
+5.0,Brightside,"San Francisco, CA",2017,Company - Private,Investment Banking & Asset Management,Finance,Unknown,,1,,AZ,Data Scientist,8,Medium Business,1,0,1,0,1,1,0,1,0,1,0
+5.0,BPA Services,"Alexandria, VA",2025,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,150.0,160,155.0,DC,Data Scientist,0,Unknown,0,1,0,0,0,1,0,0,0,0,0
+3.7,Visa Inc.,"Foster City, CA",1958,Company - Public,IT Services,Information Technology,$10+ billion ,158.0,211,184.5,WA,Data Scientist,67,Enterprise Business,1,1,1,0,1,0,0,0,0,1,0
+3.1,Intrado,"Omaha, NE",1986,Company - Private,Enterprise Software & Network Solutions,Information Technology,$2 to $5 billion ,20.0,39,29.5,CO,Data Analyst,39,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.7,Centauri,"Chantilly, VA",1999,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million ,56.0,117,86.5,OH,Other,26,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.7,Caterpillar,"Deerfield, IL",1925,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion ,63.0,99,81.0,IL,Data Scientist,100,Enterprise Business,0,0,1,0,0,0,0,0,0,0,0
+4.5,Anson McCade,"London, United Kingdom",2000,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million ,,1,,IL,Data Engineer,25,Medium Business,1,0,0,0,1,0,0,0,1,0,0
+3.8,Zimmerman Advertising,"Fort Lauderdale, FL",1984,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown,68.0,114,91.0,FL,Data Scientist,41,Large Business,1,1,1,0,1,0,1,0,0,1,0
+3.3,Liberty Mutual Insurance,"Boston, MA",1912,Company - Private,Insurance Carriers,Insurance,$10+ billion ,86.0,143,114.5,MA,Data Scientist,113,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+4.6,"Torch Technologies, Inc.","Huntsville, AL",2002,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million ,41.0,95,68.0,AL,Data Scientist,23,Enterprise Business,1,1,1,0,0,0,0,0,0,0,0
+3.7,Swiss Re,"Zurich, Switzerland",1863,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion ,86.0,144,115.0,NY,Data Scientist,162,Enterprise Business,1,1,0,0,1,0,0,0,0,1,1
+3.7,Northrop Grumman,"Falls Church, VA",1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion ,80.0,139,109.5,CA,Data Scientist,86,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+3.5,Sartorius,"Gottingen, Germany",1870,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion ,56.0,95,75.5,NM,Data Scientist,155,Enterprise Business,1,1,0,0,0,0,0,0,0,1,1
+4.1,Netskope,"Santa Clara, CA",2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,120.0,189,154.5,CA,Data Scientist,13,Large Business,1,1,0,0,0,0,0,0,1,1,0
+4.7,1904labs,"Saint Louis, MO",2016,Company - Private,IT Services,Information Technology,Unknown,111.0,176,143.5,MO,Data Scientist,9,Medium Business,1,0,0,0,1,0,0,0,1,1,0
+4.1,ClearOne Advantage,"Baltimore, MD",2008,Company - Private,Banks & Credit Unions,Finance,Unknown,54.0,93,73.5,MD,Data Scientist,17,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.4,CyrusOne,"Dallas, TX",2000,Company - Public,Real Estate,Real Estate,$1 to $2 billion ,71.0,119,95.0,TX,Data Scientist,25,Large Business,1,1,0,1,1,1,0,1,0,1,0
+3.1,Amica Mutual,"Lincoln, RI",1907,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion ,,1,,RI,Data Analyst,118,Enterprise Business,0,1,0,0,1,0,0,0,0,0,0
+4.4,The David J. Joseph Company,"Cincinnati, OH",1885,Subsidiary or Business Segment,Metals Brokers,Mining & Metals,Unknown,82.0,132,107.0,OH,Data Scientist,140,Large Business,1,0,1,0,1,1,0,0,0,1,0
+4.3,USEReady,"New York, NY",2011,Company - Private,Consulting,Business Services,$10 to $25 million ,84.0,146,115.0,NY,Data Scientist,14,Large Business,1,0,1,0,1,1,1,1,1,1,0
+3.8,Bill.com,"Palo Alto, CA",2006,Company - Public,Financial Transaction Processing,Finance,$50 to $100 million ,107.0,172,139.5,CA,Data Scientist,19,Large Business,0,0,0,0,1,0,0,0,0,1,0
+3.8,Pacific Northwest National Laboratory,"Richland, WA",1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion ,49.0,85,67.0,WA,Data Scientist,60,Enterprise Business,0,0,0,0,0,0,0,0,0,1,0
+4.5,Blue Owl,"San Francisco, CA",2016,Company - Private,Internet,Information Technology,Unknown,,1,,CA,Data Scientist,9,Medium Business,1,0,0,0,0,0,0,0,0,1,0
+3.8,DICK'S Sporting Goods - Corporate,"Coraopolis, PA",1948,Company - Public,Sporting Goods Stores,Retail,$5 to $10 billion ,61.0,109,85.0,PA,Data Scientist,77,Enterprise Business,1,0,0,0,1,0,0,0,0,1,0
+2.2,Great-Circle Technologies,"Chantilly, VA",2000,Company - Private,Enterprise Software & Network Solutions,Information Technology,$1 to $5 million ,,1,,VA,Data Scientist,25,Small Business,1,1,0,0,1,1,1,0,1,1,0
+2.8,Berg Health,"Framingham, MA",2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million ,88.0,148,118.0,MA,Data Scientist,19,Medium Business,1,1,0,0,1,0,0,0,0,0,0
+4.7,Oversight Systems,"Atlanta, GA",2003,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million ,60.0,99,79.5,GA,Data Scientist,22,Medium Business,1,1,0,0,1,0,0,0,0,1,0
+4.9,Avlino,"Holmdel, NJ",2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Less than $1 million ,,1,,NJ,Data Scientist,12,Small Business,1,0,0,0,0,0,1,0,1,1,0
+3.1,C Space,"Boston, MA",1999,Company - Public,Advertising & Marketing,Business Services,$100 to $500 million ,41.0,72,56.5,MA,Data Scientist,26,Large Business,1,0,1,0,1,0,0,0,0,1,0
+3.2,"Numeric, LLC","Chadds Ford, PA",2025,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million ,96.0,161,128.5,PA,Data Scientist,0,Small Business,1,0,0,0,1,1,1,0,1,1,0
+4.0,HP Inc.,"Palo Alto, CA",1939,Company - Public,Computer Hardware & Software,Information Technology,Unknown,65.0,130,97.5,WA,Other,86,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.4,SpringML,"Pleasanton, CA",2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,52.0,81,66.5,IN,Other,10,Small Business,1,0,1,0,0,0,0,0,0,0,0
+3.6,Grainger,"Lake Forest, IL",1927,Company - Public,Wholesale,Business Services,$10+ billion ,139.0,220,179.5,IL,Data Scientist,98,Enterprise Business,1,1,0,0,1,0,0,0,0,1,0
+2.7,EAG Laboratories,"San Diego, CA",1978,Subsidiary or Business Segment,Research & Development,Business Services,$50 to $100 million ,50.0,102,76.0,MO,Other,47,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.9,The Buffalo Group,"Reston, VA",2010,Company - Private,IT Services,Information Technology,$100 to $500 million ,85.0,139,112.0,VA,Data Scientist,15,Large Business,1,0,0,0,1,0,1,0,1,1,0
+3.1,Carmeuse,"Louvain-la-Neuve, Belgium",1860,Company - Private,Mining,Mining & Metals,$1 to $2 billion ,74.0,122,98.0,PA,Data Scientist,165,Enterprise Business,1,0,0,0,0,0,0,1,0,1,0
+4.0,HP Inc.,"Palo Alto, CA",1939,Company - Public,Computer Hardware & Software,Information Technology,Unknown,99.0,157,128.0,WA,Data Scientist,86,Enterprise Business,0,0,0,0,1,1,0,0,1,1,0
+4.3,h2o.ai,"Mountain View, CA",2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,79.0,222,150.5,CA,Data Scientist,14,Large Business,1,1,0,0,0,1,1,1,1,1,0
+1.9,GNS Healthcare,"Cambridge, MA",2000,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million ,57.0,118,87.5,MA,Data Scientist,25,Medium Business,0,0,0,0,0,1,0,0,0,1,0
+3.3,Peraton,"Herndon, VA",2017,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion ,83.0,137,110.0,VA,Data Scientist,8,Enterprise Business,1,1,0,0,0,0,1,0,0,1,1
+4.4,Pactera,"Beijing, China",1995,Company - Private,IT Services,Information Technology,$500 million to $1 billion ,86.0,141,113.5,CA,Data Scientist,30,Enterprise Business,1,1,0,0,0,0,0,0,0,1,0
+3.9,Nurx,"San Francisco, CA",2016,Company - Private,Health Care Services & Hospitals,Health Care,$1 to $5 million ,94.0,154,124.0,CA,Data Scientist,9,Medium Business,1,0,0,0,1,0,0,0,0,1,0
+4.7,webfx.com,"Harrisburg, PA",1997,Company - Private,Advertising & Marketing,Business Services,$25 to $50 million ,37.0,76,56.5,PA,Data Analyst,28,Large Business,0,1,0,0,0,0,0,0,0,0,0
+4.5,Johns Hopkins University Applied Physics Laboratory,"Laurel, MD",1942,Nonprofit Organization,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion ,100.0,160,130.0,MD,Data Scientist,83,Enterprise Business,1,1,0,0,0,0,0,0,0,1,0
+4.3,Productive Edge,"Chicago, IL",2008,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million ,55.0,100,77.5,IL,Data Analyst,17,Medium Business,0,1,0,0,1,0,0,0,0,1,0
+4.0,Excella Consulting,"Arlington, VA",2002,Company - Private,Consulting,Business Services,$50 to $100 million ,60.0,114,87.0,VA,Data Engineer,23,Large Business,1,1,0,0,1,1,0,0,0,0,0
+4.4,Gensco,"Tacoma, WA",1948,Company - Private,Wholesale,Business Services,$100 to $500 million ,39.0,68,53.5,WA,Data Analyst,77,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.2,Walmart,"Bentonville, AR",1962,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion ,106.0,172,139.0,TX,Data Scientist,63,Enterprise Business,0,0,0,0,1,0,1,0,0,0,1
+3.8,Logic20/20,"Seattle, WA",2005,Company - Private,Consulting,Business Services,$25 to $50 million ,86.0,142,114.0,CA,Data Scientist,20,Large Business,1,1,0,0,1,1,0,0,1,1,0
+4.2,goTRG,"Miami, FL",2008,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million ,64.0,107,85.5,FL,Data Scientist,17,Large Business,1,1,0,0,1,0,1,0,1,1,0
+4.5,NMR Consulting,"Chantilly, VA",1996,Company - Private,IT Services,Information Technology,$25 to $50 million ,31.0,65,48.0,AL,Data Engineer,29,Medium Business,0,1,0,0,1,0,1,0,0,0,0
+4.9,Kodiak Robotics,"Mountain View, CA",2018,Company - Private,Computer Hardware & Software,Information Technology,Unknown,,1,,CA,Machine Learning Engineer,7,Medium Business,1,1,0,0,0,0,0,0,0,1,0
+3.5,iSeatz,"New Orleans, LA",1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,34.0,62,48.0,LA,Data Analyst,26,Medium Business,0,1,0,0,1,0,0,0,0,0,0
+4.7,ThousandEyes,"San Francisco, CA",2010,Company - Private,Computer Hardware & Software,Information Technology,Unknown,,1,,CA,Data Engineer,15,Large Business,1,0,0,0,1,0,0,0,1,0,0
+3.5,Nektar Therapeutics,"San Francisco, CA",1990,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million ,117.0,231,174.0,CA,Other,35,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.9,TransUnion,"Chicago, IL",1968,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion ,64.0,106,85.0,GA,Data Scientist,57,Enterprise Business,1,0,0,0,1,0,0,0,1,1,0
+4.0,Peterson Technology Partners,"Park Ridge, IL",1997,Contract,Computer Hardware & Software,Information Technology,$25 to $50 million ,,1,,TX,Data Scientist,28,Large Business,1,0,0,0,0,0,0,0,0,1,0
+4.7,IT Concepts,"Vienna, VA",2003,Company - Private,IT Services,Information Technology,$10 to $25 million ,79.0,134,106.5,MD,Other,22,Medium Business,0,0,0,0,0,0,0,0,0,0,0
+4.2,Scientific Research Corporation,"Atlanta, GA",1988,Company - Private,IT Services,Information Technology,$100 to $500 million ,52.0,93,72.5,MD,Data Analyst,37,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.4,General Dynamics Information Technology,"Fairfax, VA",1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion ,55.0,116,85.5,MD,Other,29,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.2,MITRE,"Bedford, MA",1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion ,72.0,123,97.5,VA,Data Scientist,67,Enterprise Business,1,1,1,1,1,0,0,0,0,0,1
+3.9,The Buffalo Group,"Reston, VA",2010,Company - Private,IT Services,Information Technology,$100 to $500 million ,74.0,124,99.0,VA,Data Scientist,15,Large Business,1,1,1,0,0,0,0,0,0,0,0
+3.1,DentaQuest,"Boston, MA",2001,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion ,40.0,73,56.5,WI,Data Analyst,24,Enterprise Business,0,1,0,0,1,0,0,0,0,0,0
+4.1,Redjack,"Silver Spring, MD",2007,Company - Private,IT Services,Information Technology,Unknown,102.0,164,133.0,MD,Data Scientist,18,Small Business,1,0,0,0,0,0,0,0,0,0,0
+5.0,Alector,"South San Francisco, CA",2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,12,Medium Business,0,1,0,0,0,1,0,0,0,0,0
+3.8,7Park Data,"New York, NY",2012,Company - Private,Research & Development,Business Services,Unknown,89.0,153,121.0,NY,Data Scientist,13,Medium Business,1,0,0,0,0,0,0,0,1,1,0
+4.7,Rapid Response Monitoring,"Syracuse, NY",1992,Company - Private,Security Services,Business Services,Unknown,61.0,110,85.5,NY,Data Scientist,33,Large Business,1,0,0,0,1,0,0,0,0,0,0
+0.0,Bridgerock Data,"Gainesville, FL",2025,Unknown,Other Industries,Other Sector,Unknown,,1,,FL,Data Scientist,0,Small Business,1,1,0,0,1,0,0,0,0,0,0
+4.5,NuWave Solutions,"Mc Lean, VA",1999,Company - Private,IT Services,Information Technology,$5 to $10 million ,,1,,VA,Data Engineer,26,Medium Business,0,1,0,0,0,1,0,1,1,0,0
+4.3,Trilogy Ed,"New York, NY",2015,Subsidiary or Business Segment,Education Training Services,Education,Unknown,65.0,110,87.5,TX,Data Scientist,10,Enterprise Business,1,0,0,0,1,0,0,0,0,1,0
+4.2,Gallup,"Washington, DC",1935,Company - Private,Consulting,Business Services,Unknown,200.0,275,237.5,DC,Data Scientist,90,Enterprise Business,1,1,0,0,0,0,0,0,0,1,0
+3.9,CapTech,"Richmond, VA",1997,Company - Private,IT Services,Information Technology,$100 to $500 million ,68.0,123,95.5,NC,Data Engineer,28,Enterprise Business,1,0,1,0,1,0,0,0,1,0,0
+3.3,American Axle & Manufacturing,"Detroit, MI",1994,Company - Public,Transportation Equipment Manufacturing,Manufacturing,$5 to $10 billion ,80.0,129,104.5,MI,Data Scientist,31,Enterprise Business,1,1,0,1,1,1,0,0,1,1,0
+4.7,CentralReach,"Pompano Beach, FL",2012,Company - Private,Computer Hardware & Software,Information Technology,Unknown,41.0,72,56.5,NJ,Data Analyst,13,Large Business,0,1,1,0,1,0,0,0,0,0,0
+0.0,LEAH Labs,"Rochester, MN",2025,Unknown,Other Industries,Other Sector,Unknown,,1,,MN,Other,0,Small Business,0,0,0,0,0,0,0,0,0,0,0
+4.3,Integrate,"Phoenix, AZ",2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million ,39.0,71,55.0,AZ,Data Analyst,15,Large Business,0,1,0,1,1,0,0,1,0,0,0
+2.9,Boys Town Hospital,"Omaha, NE",1977,Hospital,Health Care Services & Hospitals,Health Care,Unknown,38.0,85,61.5,NE,Data Scientist,48,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.5,Demandbase,"San Francisco, CA",2006,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million ,121.0,193,157.0,CA,Data Scientist,19,Large Business,0,0,0,0,0,1,0,0,1,1,0
+3.4,Sapphire Digital,"Lyndhurst, NJ",2019,Company - Private,Internet,Information Technology,Unknown,54.0,102,78.0,NJ,Data Engineer,6,Large Business,1,0,0,0,1,0,0,0,0,0,0
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,83.0,144,113.5,MA,Data Scientist,244,Enterprise Business,1,0,0,0,1,0,0,0,1,1,0
+4.6,<intent>,"New York, NY",2009,Company - Private,Internet,Information Technology,$100 to $500 million ,120.0,160,140.0,NY,Data Scientist,16,Medium Business,1,0,0,0,0,0,0,0,1,1,0
+3.2,Formation,"San Francisco, CA",2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,102.0,163,132.5,CA,Data Scientist,10,Medium Business,0,1,0,0,0,0,0,0,1,1,0
+4.0,Autodesk,"San Rafael, CA",1982,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion ,76.0,140,108.0,CA,Data Engineer,43,Enterprise Business,1,0,0,0,1,0,1,0,1,0,0
+4.6,Beck's Hybrids,"Atlanta, IN",1937,Company - Private,Farm Support Services,Agriculture & Forestry,$50 to $100 million ,60.0,101,80.5,IN,Data Scientist,88,Large Business,0,0,0,0,0,0,0,0,0,0,0
+2.8,DrFirst,"Rockville, MD",2000,Company - Private,Health Care Services & Hospitals,Health Care,Unknown,82.0,133,107.5,MD,Data Scientist,25,Large Business,1,0,0,0,0,0,0,0,0,1,0
+4.7,Object Partners,"Minneapolis, MN",1996,Company - Private,Consulting,Business Services,$25 to $50 million ,65.0,125,95.0,MN,Data Engineer,29,Medium Business,0,0,0,0,1,1,1,1,1,0,0
+4.9,Briq,"Santa Barbara, CA",2017,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,,1,,CA,Data Scientist,8,Small Business,1,1,0,0,1,0,0,1,0,1,0
+0.0,Geomagical Labs,"Mountain View, CA",2025,Company - Private,Internet,Information Technology,Less than $1 million ,,1,,CA,Other,0,Small Business,1,1,0,0,1,0,0,0,0,0,0
+3.1,"Teaching Strategies, LLC","Bethesda, MD",1988,Company - Private,Preschool & Child Care,Education,$50 to $100 million ,,1,,MD,Data Scientist,37,Medium Business,1,1,1,0,1,0,0,0,0,1,0
+3.0,L.A. Care Health Plan,"Los Angeles, CA",1997,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown,91.0,148,119.5,CA,Data Scientist,28,Enterprise Business,1,0,1,0,1,0,0,0,1,1,0
+3.2,Red Ventures,"Fort Mill, SC",2000,Company - Private,Advertising & Marketing,Business Services,$1 to $2 billion ,95.0,173,134.0,NC,Data Engineer,25,Enterprise Business,0,0,0,0,1,1,0,0,1,0,0
+4.4,Quick Base,"Cambridge, MA",1999,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,77.0,124,100.5,MA,Data Scientist,26,Large Business,1,1,1,1,1,0,0,0,0,1,0
+3.5,The E.W. Scripps Company,"Cincinnati, OH",1878,Company - Public,TV Broadcast & Cable Networks,Media,$500 million to $1 billion ,80.0,135,107.5,OH,Data Scientist,147,Enterprise Business,1,0,1,0,1,0,0,0,0,0,0
+4.0,Upside Business Travel,"Washington, DC",2015,Company - Private,Internet,Information Technology,Unknown,85.0,159,122.0,DC,Data Engineer,10,Medium Business,1,0,0,0,1,1,0,0,1,1,0
+4.3,Equity Residential,"Chicago, IL",1993,Company - Public,Real Estate,Real Estate,$2 to $5 billion ,80.0,105,92.5,IL,Data Engineer,32,Enterprise Business,1,1,0,0,1,0,1,1,1,1,0
+2.3,Synagro,"Baltimore, MD",1986,Company - Private,Research & Development,Business Services,$100 to $500 million ,43.0,81,62.0,MD,Data Analyst,39,Large Business,0,1,0,0,1,0,0,0,0,0,0
+4.0,Alliance Source Testing,"Decatur, AL",2000,Unknown,Architectural & Engineering Services,Business Services,$25 to $50 million ,29.0,50,39.5,AL,Other,25,Medium Business,0,0,0,0,0,0,0,0,0,0,0
+3.9,Mars,"Mc Lean, VA",1911,Company - Private,Food & Beverage Manufacturing,Manufacturing,$10+ billion ,,1,,NJ,Data Scientist,114,Enterprise Business,1,0,1,1,1,0,1,1,1,0,0
+3.6,Accuride International,"Santa Fe Springs, CA",1966,Company - Private,Industrial Manufacturing,Manufacturing,$100 to $500 million ,82.0,133,107.5,CA,Data Scientist,59,Enterprise Business,0,1,1,0,0,0,0,0,0,1,0
+3.8,Full Potential Solutions,"Kansas City, MO",2017,Company - Private,Staffing & Outsourcing,Business Services,Unknown,26.0,55,40.5,MO,Data Analyst,8,Large Business,1,1,1,0,1,1,0,1,0,0,0
+3.7,Visa Inc.,"Foster City, CA",1958,Company - Public,IT Services,Information Technology,$10+ billion ,61.0,118,89.5,VA,Data Scientist,67,Enterprise Business,1,0,1,0,1,0,1,0,1,1,0
+4.4,Maven Wave Partners,"Chicago, IL",2008,Company - Private,Consulting,Business Services,$50 to $100 million ,60.0,102,81.0,IL,Data Scientist,17,Large Business,1,1,1,0,1,1,1,1,0,1,0
+3.6,My Job Tank,"New York, NY",2025,Company - Private,Other Industries,Other Sector,Unknown,,1,,CA,Data Scientist,0,Medium Business,1,0,0,0,0,0,1,0,1,1,0
+4.0,Novetta,"Mc Lean, VA",2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million ,112.0,182,147.0,VA,Data Scientist,13,Large Business,1,0,0,0,0,1,0,0,0,1,0
+3.8,Dynetics,"Huntsville, AL",1974,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million ,,1,,AL,Other,51,Enterprise Business,1,0,0,0,0,0,0,0,0,0,1
+3.2,"First Command Financial Services, Inc.","Fort Worth, TX",1958,Company - Private,Brokerage Services,Finance,$100 to $500 million ,64.0,106,85.0,TX,Data Scientist,67,Enterprise Business,1,1,1,0,1,0,0,0,0,1,0
+2.9,Pharmavite,"West Hills, CA",1971,Company - Private,Consumer Products Manufacturing,Manufacturing,$1 to $2 billion ,51.0,112,81.5,CA,Other,54,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.8,BioMarin Pharmaceutical,"San Rafael, CA",1997,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$500 million to $1 billion ,113.0,223,168.0,CA,Other,28,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.5,ShorePoint,"Washington, DC",2017,Company - Private,IT Services,Information Technology,Unknown,,1,,VA,Data Analyst,8,Small Business,0,1,1,1,1,0,0,0,0,1,0
+4.3,Stratagem Group,"Aurora, CO",2007,Company - Private,Aerospace & Defense,Aerospace & Defense,Unknown,72.0,129,100.5,CO,Machine Learning Engineer,18,Small Business,1,1,0,0,1,1,1,0,1,1,0
+3.4,PA Consulting,"London, United Kingdom",1943,Company - Private,Consulting,Business Services,$100 to $500 million ,71.0,123,97.0,NY,Data Scientist,82,Enterprise Business,1,1,1,0,1,0,1,0,1,1,0
+4.1,ManTech,"Herndon, VA",1968,Company - Public,Research & Development,Business Services,$1 to $2 billion ,64.0,106,85.0,VA,Data Scientist,57,Enterprise Business,0,0,0,0,1,0,1,0,0,1,0
+4.3,h2o.ai,"Mountain View, CA",2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,118.0,189,153.5,CA,Data Scientist,14,Large Business,1,1,0,0,0,1,1,1,1,1,0
+4.1,Apellis Pharmaceuticals,"Waltham, MA",2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,MA,Other,17,Large Business,0,0,0,0,0,1,0,0,0,0,0
+5.0,Gridiron IT,"Reston, VA",2017,Company - Private,IT Services,Information Technology,Unknown,120.0,145,132.5,FL,Data Engineer,8,Medium Business,0,0,0,0,0,0,0,0,0,0,0
+4.3,Productive Edge,"Chicago, IL",2008,Company - Private,Computer Hardware & Software,Information Technology,$10 to $25 million ,80.0,120,100.0,IL,Data Engineer,17,Medium Business,0,1,0,0,1,0,0,1,1,1,0
+4.0,Hygiena,"Camarillo, CA",2025,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million ,,1,,CA,Data Engineer,0,Large Business,1,1,0,0,1,0,0,0,0,1,1
+3.7,Evolve Vacation Rental,"Denver, CO",2011,Company - Private,Travel Agencies,Travel & Tourism,Unknown,80.0,130,105.0,CO,Data Scientist,14,Large Business,1,0,0,0,1,0,0,0,0,1,0
+5.0,Alector,"South San Francisco, CA",2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,12,Medium Business,1,1,0,0,0,1,0,0,0,0,0
+4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",2025,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown,59.0,115,87.0,UT,Data Engineer,0,Enterprise Business,0,1,0,0,0,1,0,1,0,0,0
+4.3,Maximus Real Estate Partners,"San Francisco, CA",2013,Company - Private,Real Estate,Real Estate,Unknown,71.0,136,103.5,CA,Data Analyst,12,Medium Business,0,1,0,0,1,0,0,0,0,0,0
+2.6,Software Engineering Institute,"Pittsburgh, PA",1984,College / University,Colleges & Universities,Education,Unknown,81.0,167,124.0,PA,Data Scientist,41,Large Business,1,1,0,0,0,0,0,0,0,0,0
+3.8,PNNL,"Richland, WA",1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion ,49.0,85,67.0,WA,Data Scientist,60,Enterprise Business,1,0,0,0,0,0,0,0,0,0,0
+3.9,AVANADE,"Seattle, WA",2000,Company - Private,IT Services,Information Technology,$2 to $5 billion ,60.0,114,87.0,DC,Data Engineer,25,Enterprise Business,0,0,0,0,0,0,0,1,0,1,0
+4.3,h2o.ai,"Mountain View, CA",2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,71.0,204,137.5,IL,Data Scientist,14,Large Business,1,1,0,0,0,1,1,1,1,1,0
+3.8,PatientPoint,"Cincinnati, OH",1987,Company - Private,Advertising & Marketing,Business Services,$100 to $500 million ,75.0,125,100.0,OH,Data Scientist,38,Large Business,1,1,0,0,1,0,0,0,0,1,0
+4.1,"Insight Enterprises, Inc.","Tempe, AZ",1988,Company - Public,Enterprise Software & Network Solutions,Information Technology,$5 to $10 billion ,,1,,TX,Data Analyst,37,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.8,BlueCross BlueShield of Tennessee,"Chattanooga, TN",1945,Nonprofit Organization,Insurance Carriers,Insurance,$5 to $10 billion ,77.0,136,106.5,TN,Data Engineer,80,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+3.8,PNNL,"Richland, WA",1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion ,74.0,123,98.5,WA,Data Scientist,60,Enterprise Business,0,0,0,0,0,0,0,0,0,1,0
+5.0,Alector,"South San Francisco, CA",2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,12,Medium Business,0,1,0,0,0,1,0,0,0,0,0
+4.8,KnowBe4,"Clearwater, FL",2010,Company - Private,Security Services,Business Services,$100 to $500 million ,44.0,78,61.0,FL,Data Analyst,15,Large Business,1,1,0,0,1,0,0,0,0,0,0
+4.4,KSM Consulting,"Indianapolis, IN",2008,Company - Private,Consulting,Business Services,Unknown,65.0,148,106.5,IN,Data Scientist,17,Medium Business,1,0,0,0,1,1,0,1,1,1,0
+3.9,Cogo Labs,"Cambridge, MA",2005,Company - Private,Internet,Information Technology,Unknown,59.0,110,84.5,MA,Data Engineer,20,Medium Business,1,0,0,0,1,0,0,0,1,0,0
+3.4,Church & Dwight,"Ewing, NJ",1846,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion ,85.0,134,109.5,NJ,Data Analyst,179,Enterprise Business,1,1,1,1,0,0,0,0,0,1,0
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,124.0,204,164.0,MA,Data Scientist,174,Enterprise Business,1,0,0,0,1,1,1,0,1,1,0
+3.9,Genentech,"South San Francisco, CA",1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,131.0,207,169.0,CA,Data Scientist,49,Enterprise Business,1,1,0,0,1,0,1,0,1,1,0
+3.8,Juniper Networks,"Sunnyvale, CA",1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion ,110.0,174,142.0,CA,Data Scientist,29,Enterprise Business,1,1,0,0,0,1,0,0,1,1,0
+4.4,"Volume Integration, LLC","Reston, VA",2013,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million ,,1,,VA,Data Scientist,12,Medium Business,1,0,0,0,1,1,0,0,0,1,0
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,52.0,101,76.5,MA,Other,244,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.1,ManTech,"Herndon, VA",1968,Company - Public,Research & Development,Business Services,$1 to $2 billion ,,1,,VA,Data Scientist,57,Enterprise Business,1,0,1,0,1,0,1,0,1,1,0
+3.8,Legal & General America,"Frederick, MD",1981,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion ,81.0,133,107.0,MD,Data Scientist,44,Large Business,1,1,1,0,1,0,0,0,0,1,0
+3.5,Western Digital,"San Jose, CA",1970,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion ,132.0,211,171.5,CA,Data Scientist,55,Enterprise Business,1,0,0,0,1,1,1,1,0,1,0
+3.5,CACI International,"Arlington, VA",1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion ,,1,,CO,Data Scientist,63,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.9,Health IQ,"Mountain View, CA",2013,Company - Private,Insurance Agencies & Brokerages,Insurance,Unknown,73.0,119,96.0,TX,Data Scientist,12,Large Business,0,1,0,0,0,0,0,0,0,1,0
+4.2,Nuna,"San Francisco, CA",2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,110.0,175,142.5,CA,Data Analyst,15,Medium Business,0,0,0,0,1,0,0,0,0,1,0
+4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",2025,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown,74.0,140,107.0,UT,Data Engineer,0,Enterprise Business,0,1,0,0,0,0,0,0,0,1,0
+3.5,Sunovion,"Marlborough, MA",2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion ,100.0,190,145.0,MA,Other,15,Enterprise Business,1,1,0,0,0,0,0,0,0,0,1
+2.9,National Student Clearinghouse,"Herndon, VA",1993,Nonprofit Organization,Colleges & Universities,Education,$25 to $50 million ,43.0,80,61.5,VA,Data Analyst,32,Large Business,1,1,1,1,1,0,0,0,0,0,0
+5.0,Alector,"South San Francisco, CA",2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Data Engineer,12,Medium Business,0,1,0,0,0,1,0,0,0,0,0
+5.0,Hamilton Porter LLC,"Newport Beach, CA",2019,Company - Public,Staffing & Outsourcing,Business Services,Unknown,,1,,NJ,Data Scientist,6,Small Business,1,1,1,1,1,0,1,1,0,1,0
+3.6,Tower Health,"Reading, PA",2017,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown,35.0,50,42.5,PA,Other,8,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+2.7,State of Wisconsin Investment Board,"Madison, WI",1951,Government,Investment Banking & Asset Management,Finance,$50 to $100 million ,91.0,149,120.0,WI,Data Scientist,74,Medium Business,1,0,1,0,1,0,0,0,0,0,0
+4.4,Rubius Therapeutics,"Cambridge, MA",2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million ,42.0,82,62.0,MA,Other,12,Large Business,0,0,0,0,0,0,0,0,0,0,0
+4.0,Autodesk,"San Rafael, CA",1982,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion ,116.0,185,150.5,CA,Data Scientist,43,Enterprise Business,1,0,0,0,1,0,1,0,1,1,1
+4.3,OneMagnify,"Detroit, MI",1967,Company - Private,Advertising & Marketing,Business Services,Unknown,59.0,116,87.5,MI,Data Analyst,58,Large Business,0,1,1,0,1,0,0,0,0,0,0
+4.2,IZEA,"Winter Park, FL",2006,Company - Public,Advertising & Marketing,Business Services,$25 to $50 million ,48.0,95,71.5,FL,Data Engineer,19,Medium Business,1,1,0,0,1,1,1,0,1,1,0
+3.6,Vionic Group,"San Rafael, CA",2006,Subsidiary or Business Segment,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million ,31.0,72,51.5,CA,Data Analyst,19,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,105.0,198,151.5,CA,Other,244,Enterprise Business,0,1,0,0,0,0,0,0,0,1,1
+2.8,Dodge Data & Analytics,"Hamilton, NJ",2014,Company - Private,IT Services,Information Technology,Unknown,55.0,100,77.5,NJ,Data Analyst,11,Large Business,1,1,1,0,1,0,0,0,0,1,0
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,98.0,182,140.0,MA,Other,244,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.3,Plymouth Rock Assurance,"Boston, MA",1982,Company - Private,Insurance Carriers,Insurance,$10 to $25 million ,73.0,124,98.5,NJ,Data Scientist,43,Enterprise Business,0,1,0,0,1,0,0,0,0,0,0
+0.0,CA-One Tech Cloud,"Fremont, CA",2017,Company - Private,IT Services,Information Technology,$5 to $10 million ,200.0,250,225.0,CA,Data Scientist,8,Medium Business,1,1,1,0,0,1,0,0,0,1,1
+3.6,Beebe Healthcare,"Lewes, DE",1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million ,44.0,71,57.5,DE,Other,90,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,117.0,206,161.5,MA,Other,244,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.4,Argo Group US,"Hamilton, Bermuda",1948,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion ,111.0,183,147.0,NY,Data Scientist,77,Enterprise Business,1,0,0,0,1,1,1,0,1,0,0
+4.1,Associated Electric Cooperative,"Springfield, MO",1961,Company - Private,Energy,"Oil, Gas, Energy & Utilities",$1 to $2 billion ,44.0,78,61.0,MO,Data Analyst,64,Large Business,0,1,0,0,1,0,0,0,0,0,0
+2.6,Software Engineering Institute,"Pittsburgh, PA",1984,College / University,Colleges & Universities,Education,Unknown,81.0,159,120.0,PA,Data Scientist,41,Large Business,1,0,0,0,0,0,0,0,0,1,1
+0.0,Seen by Indeed,"Austin, TX",2025,Company - Private,Other Industries,Other Sector,Unknown,,1,,PA,Data Scientist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0
+3.2,PennyMac,"Westlake Village, CA",2008,Company - Public,Lending,Finance,$500 million to $1 billion ,83.0,166,124.5,AZ,Data Scientist,17,Enterprise Business,1,1,0,0,1,0,0,0,0,1,0
+3.9,Zest AI,"Burbank, CA",2009,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million ,114.0,182,148.0,CA,Data Scientist,16,Medium Business,1,0,0,0,0,0,0,0,0,1,0
+4.7,DECISIVE ANALYTICS Corporation,"Arlington, VA",1996,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $50 million ,42.0,76,59.0,AL,Data Analyst,29,Medium Business,1,1,0,0,0,0,0,0,0,0,1
+4.0,Peterson Technology Partners,"Park Ridge, IL",1997,Contract,Computer Hardware & Software,Information Technology,$25 to $50 million ,,1,,IL,Data Scientist,28,Large Business,1,0,0,0,1,0,0,0,1,1,0
+4.1,Apellis Pharmaceuticals,"Waltham, MA",2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,17,Large Business,0,1,0,0,0,0,0,0,0,0,0
+4.5,NuWave Solutions,"Mc Lean, VA",1999,Company - Private,IT Services,Information Technology,$5 to $10 million ,,1,,VA,Data Engineer,26,Medium Business,1,0,0,0,0,1,0,0,0,0,0
+3.7,The Hanover Insurance Group,"Worcester, MA",1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion ,114.0,179,146.5,MA,Data Scientist,173,Enterprise Business,1,1,0,0,1,0,0,0,0,1,0
+5.0,Aptonet Inc,"Atlanta, GA",2004,Company - Private,IT Services,Information Technology,Unknown,,1,,GA,Machine Learning Engineer,21,Large Business,1,1,0,0,0,0,0,0,1,0,0
+2.9,Karyopharm Therapeutics Inc.,"Newton, MA",2025,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,60.0,123,91.5,MA,Other,0,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.0,Tempus Labs,"Chicago, IL",2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,100.0,166,133.0,IL,Data Scientist,10,Large Business,1,0,0,0,1,1,0,0,0,1,0
+4.7,Recursion Pharmaceuticals,"Salt Lake City, UT",2013,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million ,108.0,173,140.5,UT,Data Scientist,12,Medium Business,1,0,0,0,0,1,0,0,0,1,0
+3.7,P2 Energy Solutions,"Denver, CO",2025,Company - Private,Computer Hardware & Software,Information Technology,Unknown,48.0,93,70.5,LA,Data Engineer,0,Large Business,0,1,0,0,1,0,0,0,0,0,0
+3.8,BioMarin Pharmaceutical,"San Rafael, CA",1997,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$500 million to $1 billion ,,1,,CA,Data Engineer,28,Enterprise Business,0,0,0,0,1,0,0,0,0,0,0
+3.3,Rochester Regional Health,"Rochester, NY",2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion ,54.0,115,84.5,NY,Other,11,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.0,ClearEdge,"Annapolis Junction, MD",2002,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million ,60.0,127,93.5,MD,Other,23,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+4.4,Rubius Therapeutics,"Cambridge, MA",2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million ,90.0,179,134.5,MA,Other,12,Large Business,0,0,0,0,0,0,0,0,0,0,0
+4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",2025,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown,,1,,UT,Data Engineer,0,Enterprise Business,0,0,1,1,1,0,0,0,0,1,0
+4.4,OSI Engineering,"Campbell, CA",2010,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million ,,1,,CA,Data Scientist,15,Medium Business,1,1,1,0,1,0,0,0,0,1,0
+3.9,Tapjoy,"San Francisco, CA",2007,Company - Private,Internet,Information Technology,$10 to $25 million ,138.0,224,181.0,CA,Machine Learning Engineer,18,Large Business,1,0,0,0,1,0,0,0,1,1,0
+3.3,Rochester Regional Health,"Rochester, NY",2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion ,54.0,115,84.5,NY,Other,11,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.1,Credit Sesame,"Mountain View, CA",2010,Company - Private,Internet,Information Technology,$50 to $100 million ,190.0,220,205.0,CA,Data Engineer,15,Medium Business,1,0,0,0,1,1,0,0,1,1,0
+4.2,Octane,"New York, NY",2014,Company - Private,Lending,Finance,Unknown,,1,,TX,Data Engineer,11,Medium Business,1,0,0,0,1,1,0,0,1,0,0
+4.6,Greenwich Biosciences,"Carlsbad, CA",2013,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,12,Large Business,0,1,0,0,0,0,0,0,0,0,0
+0.0,Decode_M,"New York, NY",2025,Unknown,Other Industries,Other Sector,Unknown,,1,,NY,Data Scientist,0,Small Business,1,1,0,0,0,0,0,0,0,1,0
+3.6,San Manuel Casino,"Highland, CA",1986,Company - Private,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million ,35.0,62,48.5,CA,Data Analyst,39,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+4.0,Texas Health Huguley Hospital,"Arlington, TX",1977,Hospital,Health Care Services & Hospitals,Health Care,$50 to $100 million ,37.0,52,44.5,TX,Other,48,Enterprise Business,0,0,0,0,0,1,0,0,0,0,0
+4.5,GSN Games,"Boston, MA",1999,Company - Private,Video Games,Media,Unknown,,1,,CA,Data Scientist,26,Large Business,1,1,0,0,1,1,0,0,1,1,0
+2.4,Teasdale Latin Foods,"Flower Mound, TX",2025,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million ,39.0,66,52.5,IL,Other,0,Large Business,0,0,0,0,0,0,0,0,0,0,0
+2.6,Software Engineering Institute,"Pittsburgh, PA",1984,College / University,Colleges & Universities,Education,Unknown,81.0,167,124.0,PA,Data Scientist,41,Large Business,0,0,0,0,0,0,0,0,0,1,0
+4.1,Redstream Technology,"New York, NY",2007,Company - Private,IT Services,Information Technology,$5 to $10 million ,,1,,GA,Data Engineer,18,Small Business,0,0,0,0,0,0,0,0,0,0,0
+3.5,Central California Alliance for Health,"Scotts Valley, CA",1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion ,42.0,86,64.0,CA,Data Analyst,29,Large Business,0,0,1,0,1,0,0,0,0,0,0
+3.0,Pilot Flying J Travel Centers LLC,"Knoxville, TN",1958,Company - Private,Gas Stations,Retail,$10+ billion ,69.0,127,98.0,TN,Data Engineer,67,Enterprise Business,1,0,0,0,1,0,0,0,0,0,0
+3.6,Beebe Healthcare,"Lewes, DE",1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million ,44.0,71,57.5,DE,Other,90,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.3,Palermo's Pizza,"Milwaukee, WI",1964,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown,40.0,68,54.0,WI,Other,61,Large Business,0,0,0,0,0,0,0,0,0,0,0
+4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",2025,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown,,1,,UT,Data Engineer,0,Enterprise Business,0,1,1,1,1,0,0,0,0,1,0
+2.7,Advanced BioScience Laboratories,"Rockville, MD",1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million ,49.0,113,81.0,MD,Other,64,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.4,Echo Global Logistics,"Chicago, IL",2005,Company - Public,Transportation Management,Transportation & Logistics,$2 to $5 billion ,75.0,140,107.5,IL,Data Engineer,20,Enterprise Business,0,0,0,0,1,0,0,0,0,0,0
+3.9,Mars,"Mc Lean, VA",1911,Company - Private,Food & Beverage Manufacturing,Manufacturing,$10+ billion ,,1,,OR,Data Scientist,114,Enterprise Business,1,0,0,0,0,1,0,0,1,1,0
+3.8,Truckstop.com,"New Plymouth, ID",1995,Company - Private,Logistics & Supply Chain,Transportation & Logistics,Unknown,86.0,139,112.5,IL,Data Scientist,30,Large Business,1,1,0,0,1,1,0,0,0,1,0
+3.7,Lockheed Martin,"Bethesda, MD",1995,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion ,66.0,112,89.0,VA,Data Scientist,30,Enterprise Business,1,1,1,0,1,0,1,0,1,1,0
+4.8,Acuity Insurance,"Sheboygan, WI",1925,Company - Private,Insurance Carriers,Insurance,$1 to $2 billion ,76.0,125,100.5,WI,Data Scientist,100,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.8,Fareportal,"New York, NY",2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion ,44.0,86,65.0,NY,Data Analyst,23,Enterprise Business,0,1,1,1,1,0,0,0,0,0,0
+3.4,"Veterans Affairs, Veterans Health Administration","Washington, DC",1930,Government,Federal Agencies,Government,Unknown,31.0,52,41.5,LA,Other,95,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.3,Credera,"Dallas, TX",1999,Subsidiary or Business Segment,Consulting,Business Services,Unknown,53.0,92,72.5,TX,Data Scientist,26,Large Business,1,1,1,1,1,1,1,1,1,1,0
+4.8,KnowBe4,"Clearwater, FL",2010,Company - Private,Security Services,Business Services,$100 to $500 million ,44.0,78,61.0,FL,Data Analyst,15,Large Business,1,1,0,0,1,0,0,0,0,0,0
+3.4,Church & Dwight,"Ewing, NJ",1846,Company - Public,Consumer Products Manufacturing,Manufacturing,$2 to $5 billion ,85.0,134,109.5,NJ,Data Analyst,179,Enterprise Business,1,1,1,1,0,0,0,0,0,1,0
+4.3,Daugherty Business Solutions,"Saint Louis, MO",1985,Company - Private,IT Services,Information Technology,$100 to $500 million ,,1,,GA,Data Analyst,40,Enterprise Business,1,0,0,1,0,1,1,1,1,0,1
+3.9,Cogo Labs,"Cambridge, MA",2005,Company - Private,Internet,Information Technology,Unknown,59.0,110,84.5,MA,Data Engineer,20,Medium Business,1,0,0,0,1,0,0,0,1,0,0
+3.4,Spectrum Communications and Consulting,"Chicago, IL",1992,Company - Private,Advertising & Marketing,Business Services,$10 to $25 million ,64.0,111,87.5,IL,Data Scientist,33,Medium Business,0,0,0,0,1,0,0,0,0,0,0
+3.1,NCSOFT,"Seoul, South Korea",1997,Company - Public,Video Games,Media,$10+ billion ,65.0,120,92.5,CA,Data Analyst,28,Enterprise Business,1,1,1,0,1,0,1,0,0,0,0
+3.2,MITRE,"Bedford, MA",1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion ,60.0,103,81.5,VA,Data Scientist,67,Enterprise Business,1,0,0,0,0,0,1,0,1,1,0
+4.3,"Dayton Freight Lines, Inc.","Dayton, OH",1981,Company - Private,Trucking,Transportation & Logistics,Unknown,53.0,105,79.0,OH,Data Analyst,44,Enterprise Business,0,0,0,0,1,0,0,0,0,0,0
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,124.0,204,164.0,MA,Data Scientist,174,Enterprise Business,1,0,0,0,1,1,1,0,1,1,0
+3.9,Genentech,"South San Francisco, CA",1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,131.0,207,169.0,CA,Data Scientist,49,Enterprise Business,1,1,0,0,1,0,1,0,1,1,0
+3.8,Juniper Networks,"Sunnyvale, CA",1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion ,110.0,174,142.0,CA,Data Scientist,29,Enterprise Business,1,1,0,0,0,1,0,0,1,1,0
+2.8,Community Action Partnership of San Luis Obispo,"San Luis Obispo, CA",2025,Nonprofit Organization,Social Assistance,Non-Profit,$50 to $100 million ,33.0,62,47.5,CA,Data Analyst,0,Large Business,0,1,0,0,0,0,0,0,0,0,0
+4.4,"Volume Integration, LLC","Reston, VA",2013,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million ,,1,,VA,Data Scientist,12,Medium Business,1,0,0,0,1,1,0,0,0,1,0
+4.1,ManTech,"Herndon, VA",1968,Company - Public,Research & Development,Business Services,$1 to $2 billion ,,1,,VA,Data Scientist,57,Enterprise Business,1,0,1,0,1,0,1,0,1,1,0
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,52.0,101,76.5,MA,Other,244,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.4,TrueAccord,"San Francisco, CA",2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,48.0,90,69.0,CA,Data Analyst,12,Medium Business,1,1,1,1,1,0,0,0,0,1,0
+4.0,DRB Systems,"Akron, OH",1984,Company - Private,Computer Hardware & Software,Information Technology,$50 to $100 million ,34.0,64,49.0,ID,Data Analyst,41,Large Business,1,1,1,0,1,0,0,0,0,0,0
+3.5,Western Digital,"San Jose, CA",1970,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion ,132.0,211,171.5,CA,Data Scientist,55,Enterprise Business,1,0,0,0,1,1,1,1,0,1,0
+3.8,Legal & General America,"Frederick, MD",1981,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion ,81.0,133,107.0,MD,Data Scientist,44,Large Business,1,1,1,0,1,0,0,0,0,1,0
+3.7,Corcentric,"Cherry Hill, NJ",1996,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,42.0,76,59.0,NJ,Data Analyst,29,Large Business,0,1,0,0,0,0,0,0,0,0,0
+4.6,Blend360,"Newark, NJ",2002,Company - Private,Consulting,Business Services,Unknown,,1,,MD,Data Scientist,23,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+3.5,CACI International,"Arlington, VA",1962,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion ,,1,,CO,Data Scientist,63,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.5,U.Group,"Arlington, VA",2019,Company - Private,IT Services,Information Technology,$25 to $50 million ,66.0,111,88.5,IN,Data Scientist,6,Large Business,0,0,0,0,0,1,0,0,0,1,0
+4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",2025,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown,74.0,140,107.0,UT,Data Engineer,0,Enterprise Business,0,1,0,0,0,0,0,0,0,1,0
+2.4,Calista,"Anchorage, AK",2025,Other Organization,Other Industries,Other Sector,$100 to $500 million ,,1,,AK,Other,0,Enterprise Business,0,0,0,0,0,1,0,0,0,0,0
+4.0,Pfizer,"New York, NY",1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,63.0,110,86.5,MA,Data Scientist,176,Enterprise Business,1,1,0,0,0,1,0,0,0,1,1
+4.3,SMC 3,"Peachtree City, GA",1935,Nonprofit Organization,Logistics & Supply Chain,Transportation & Logistics,$10 to $25 million ,63.0,105,84.0,KY,Data Scientist,90,Medium Business,1,1,1,0,1,0,0,0,0,0,0
+2.5,Sandhills Global,"Lincoln, NE",1978,Company - Private,Enterprise Software & Network Solutions,Information Technology,$50 to $100 million ,,1,,NE,Data Analyst,47,Enterprise Business,1,1,1,1,1,0,0,0,0,0,0
+3.8,Hire Resolve,"Phoenix, AZ",2025,Company - Private,Staffing & Outsourcing,Business Services,$500 million to $1 billion ,,1,,GA,Other,0,Small Business,0,0,0,0,1,0,0,0,0,0,0
+4.7,Systems Evolution Inc.,"Cincinnati, OH",1992,Company - Private,Consulting,Business Services,$50 to $100 million ,91.0,138,114.5,NY,Data Analyst,33,Large Business,1,1,1,0,1,0,0,0,0,1,0
+3.5,Sunovion,"Marlborough, MA",2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion ,100.0,190,145.0,MA,Other,15,Enterprise Business,1,1,0,0,0,0,0,0,0,0,1
+4.4,Eventbrite,"San Francisco, CA",2006,Company - Public,Internet,Information Technology,$100 to $500 million ,62.0,114,88.0,TN,Data Engineer,19,Enterprise Business,1,1,0,0,1,1,1,0,1,1,0
+4.1,Centro,"Chicago, IL",2001,Company - Private,Internet,Information Technology,$100 to $500 million ,71.0,129,100.0,IL,Data Engineer,24,Large Business,1,0,0,0,1,1,1,0,1,1,0
+2.9,National Student Clearinghouse,"Herndon, VA",1993,Nonprofit Organization,Colleges & Universities,Education,$25 to $50 million ,43.0,80,61.5,VA,Data Analyst,32,Large Business,1,1,1,1,1,0,0,0,0,0,0
+2.5,comScore,"Reston, VA",1999,Company - Public,Advertising & Marketing,Business Services,$1 to $2 billion ,74.0,119,96.5,OR,Data Scientist,26,Enterprise Business,1,0,0,0,1,0,0,0,1,0,0
+5.0,Genesis Research,"Hoboken, NJ",2009,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,NJ,Other,16,Small Business,1,0,0,0,1,0,0,0,0,0,0
+4.2,SullivanCotter,"Chicago, IL",1992,Company - Private,Consulting,Business Services,Unknown,55.0,97,76.0,MN,Data Analyst,33,Large Business,1,1,0,0,1,0,0,0,0,0,0
+3.9,NPD,"Port Washington, NY",1966,Company - Private,Research & Development,Business Services,$100 to $500 million ,15.0,16,15.5,NY,Data Scientist,59,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+5.0,Hamilton Porter LLC,"Newport Beach, CA",2019,Company - Public,Staffing & Outsourcing,Business Services,Unknown,,1,,NJ,Data Scientist,6,Small Business,1,1,1,1,1,0,1,1,0,1,0
+5.0,Alector,"South San Francisco, CA",2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Data Engineer,12,Medium Business,0,1,0,0,0,1,0,0,0,0,0
+4.3,Bakery Agency,"Austin, TX",2010,Company - Private,Advertising & Marketing,Business Services,Unknown,61.0,106,83.5,TX,Data Scientist,15,Small Business,1,1,0,0,1,0,0,0,0,1,0
+2.7,State of Wisconsin Investment Board,"Madison, WI",1951,Government,Investment Banking & Asset Management,Finance,$50 to $100 million ,91.0,149,120.0,WI,Data Scientist,74,Medium Business,1,0,1,0,1,0,0,0,0,0,0
+4.3,Service Express,"Grand Rapids, MI",1993,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million ,,1,,MI,Data Analyst,32,Large Business,1,1,0,0,1,0,0,0,0,0,0
+3.9,Genentech,"South San Francisco, CA",1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,127.0,199,163.0,CA,Data Scientist,49,Enterprise Business,0,1,0,0,1,0,0,0,0,0,0
+4.5,Rose International,"Chesterfield, MO",1993,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million ,,1,,MO,Data Scientist,32,Large Business,1,0,0,0,0,0,0,0,0,1,0
+4.2,Clarity Insights,"Chicago, IL",2008,Company - Private,IT Services,Information Technology,Unknown,,1,,Other,Data Scientist,17,Large Business,1,1,1,0,1,0,0,0,0,1,0
+3.4,Blue Cross & Blue Shield of Rhode Island,"Providence, RI",1939,Nonprofit Organization,Insurance Carriers,Insurance,Unknown,74.0,126,100.0,RI,Data Analyst,86,Large Business,0,0,0,0,1,1,0,0,0,0,0
+3.8,Boys Town,"Omaha, NE",1917,Nonprofit Organization,Social Assistance,Non-Profit,Unknown,33.0,72,52.5,NE,Data Scientist,108,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.6,Tower Health,"Reading, PA",2017,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown,35.0,50,42.5,PA,Other,8,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.3,The HSC Health Care System,"Washington, DC",1883,Nonprofit Organization,Health Care Services & Hospitals,Health Care,Unknown,37.0,63,50.0,DC,Data Analyst,142,Large Business,0,1,1,1,1,0,0,0,0,0,0
+3.4,Pro-Sphere Tek,"Alexandria, VA",2006,Company - Private,Consulting,Business Services,$50 to $100 million ,67.0,119,93.0,TX,Data Engineer,19,Large Business,1,0,1,0,1,1,1,1,0,0,0
+3.0,Ameritas Life Insurance Corp,"Lincoln, NE",1887,Company - Private,Insurance Agencies & Brokerages,Insurance,$2 to $5 billion ,72.0,117,94.5,OH,Data Scientist,138,Enterprise Business,1,0,0,0,1,0,0,0,0,0,0
+4.0,Autodesk,"San Rafael, CA",1982,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion ,116.0,185,150.5,CA,Data Scientist,43,Enterprise Business,1,0,0,0,1,0,1,0,1,1,1
+3.7,Genworth,"Richmond, VA",2004,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion ,78.0,126,102.0,NC,Data Scientist,21,Enterprise Business,1,1,1,0,1,1,1,1,1,0,0
+4.4,Rubius Therapeutics,"Cambridge, MA",2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million ,42.0,82,62.0,MA,Other,12,Large Business,0,0,0,0,0,0,0,0,0,0,0
+4.3,OneMagnify,"Detroit, MI",1967,Company - Private,Advertising & Marketing,Business Services,Unknown,59.0,116,87.5,MI,Data Analyst,58,Large Business,0,1,1,0,1,0,0,0,0,0,0
+5.0,605,"New York, NY",2016,Company - Private,Computer Hardware & Software,Information Technology,Unknown,,1,,NY,Data Scientist,9,Medium Business,1,0,0,0,1,1,0,0,1,1,0
+4.0,Pfizer,"New York, NY",1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,63.0,105,84.0,CT,Data Scientist,176,Enterprise Business,0,1,0,0,0,1,0,0,0,0,0
+4.0,Novetta,"Mc Lean, VA",2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million ,109.0,177,143.0,VA,Data Scientist,13,Large Business,1,0,0,0,0,1,0,0,0,1,0
+3.2,"Numeric, LLC","Chadds Ford, PA",2025,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million ,116.0,194,155.0,PA,Data Scientist,0,Small Business,1,1,0,0,0,1,1,0,1,1,0
+4.2,IZEA,"Winter Park, FL",2006,Company - Public,Advertising & Marketing,Business Services,$25 to $50 million ,48.0,95,71.5,FL,Data Engineer,19,Medium Business,1,1,0,0,1,1,1,0,1,1,0
+3.9,Trace Data,"Santa Ana, CA",2000,Company - Private,Insurance Carriers,Insurance,$10 to $25 million ,83.0,133,108.0,CA,Data Scientist,25,Medium Business,1,0,0,0,1,0,0,0,1,1,0
+4.3,Daugherty Business Solutions,"Saint Louis, MO",1985,Company - Private,IT Services,Information Technology,$100 to $500 million ,,1,,MN,Data Analyst,40,Enterprise Business,1,0,0,1,0,1,1,1,1,0,1
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,105.0,198,151.5,CA,Other,244,Enterprise Business,0,1,0,0,0,0,0,0,0,1,1
+3.6,Vionic Group,"San Rafael, CA",2006,Subsidiary or Business Segment,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million ,31.0,72,51.5,CA,Data Analyst,19,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,98.0,182,140.0,MA,Other,244,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+2.8,Dodge Data & Analytics,"Hamilton, NJ",2014,Company - Private,IT Services,Information Technology,Unknown,55.0,100,77.5,NJ,Data Analyst,11,Large Business,1,1,1,0,1,0,0,0,0,1,0
+4.2,Clearwater Analytics,"Boise, ID",2004,Company - Private,Investment Banking & Asset Management,Finance,$50 to $100 million ,45.0,82,63.5,ID,Data Analyst,21,Large Business,0,1,0,0,1,0,0,0,0,0,0
+5.0,NS8,"Las Vegas, NV",2016,Company - Private,IT Services,Information Technology,$25 to $50 million ,,1,,CA,Data Scientist,9,Medium Business,1,0,0,0,1,1,0,0,0,0,0
+4.0,"Tekvalley, Corp.","Pleasanton, CA",2025,Company - Private,IT Services,Information Technology,Less than $1 million ,83.0,135,109.0,CA,Data Scientist,0,Small Business,1,0,1,0,1,0,0,0,0,0,0
+4.6,"SmartNews, Inc.","San Francisco, CA",2012,Company - Private,Internet,Information Technology,Unknown,,1,,CA,Data Scientist,13,Medium Business,1,0,0,0,1,0,0,0,0,1,0
+3.5,BWX Technologies,"Lynchburg, VA",1850,Company - Public,Aerospace & Defense,Aerospace & Defense,$500 million to $1 billion ,70.0,122,96.0,TN,Data Scientist,175,Enterprise Business,1,0,0,0,0,0,0,0,0,0,0
+0.0,CA-One Tech Cloud,"Fremont, CA",2017,Company - Private,IT Services,Information Technology,$5 to $10 million ,200.0,250,225.0,CA,Data Scientist,8,Medium Business,1,1,1,0,0,1,0,0,0,1,1
+3.2,PennyMac,"Westlake Village, CA",2008,Company - Public,Lending,Finance,$500 million to $1 billion ,70.0,132,101.0,CA,Data Engineer,17,Enterprise Business,1,1,1,0,1,1,0,0,0,0,0
+3.3,Plymouth Rock Assurance,"Boston, MA",1982,Company - Private,Insurance Carriers,Insurance,$10 to $25 million ,73.0,124,98.5,NJ,Data Scientist,43,Enterprise Business,0,1,0,0,1,0,0,0,0,0,0
+3.9,Vermeer,"Pella, IA",1948,Company - Private,Industrial Manufacturing,Manufacturing,$1 to $2 billion ,54.0,101,77.5,IA,Data Engineer,77,Enterprise Business,0,1,0,0,1,0,1,1,0,1,0
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,117.0,206,161.5,MA,Other,244,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.6,Cambridge Trust Company,"Cambridge, MA",1890,Company - Public,Banks & Credit Unions,Finance,$50 to $100 million ,,1,,MA,Data Engineer,135,Large Business,0,1,0,0,1,0,0,0,0,0,0
+3.6,Beebe Healthcare,"Lewes, DE",1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million ,44.0,71,57.5,DE,Other,90,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.7,Zylotech,"Cambridge, MA",2014,Company - Private,Computer Hardware & Software,Information Technology,Unknown,,1,,MA,Data Engineer,11,Small Business,0,0,0,0,1,1,1,0,1,0,0
+3.4,Argo Group US,"Hamilton, Bermuda",1948,Company - Public,Insurance Carriers,Insurance,$1 to $2 billion ,111.0,183,147.0,NY,Data Scientist,77,Enterprise Business,1,0,0,0,1,1,1,0,1,0,0
+3.6,Redapt,"Woodinville, WA",1996,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million ,,1,,WA,Data Analyst,29,Large Business,0,1,0,1,1,0,0,1,0,0,0
+3.5,L&T Infotech,"Mumbai, India",1997,Company - Public,IT Services,Information Technology,Unknown,68.0,112,90.0,CA,Data Scientist,28,Enterprise Business,1,1,1,0,1,0,0,0,0,1,0
+4.3,OceanFirst Financial,"Toms River, NJ",1902,Company - Public,Banks & Credit Unions,Finance,$5 to $10 billion ,42.0,74,58.0,NJ,Data Analyst,123,Large Business,0,0,0,0,1,1,0,0,0,0,0
+4.7,Northpointe Bank,"Grand Rapids, MI",1999,Company - Private,Banks & Credit Unions,Finance,Unknown,,1,,MI,Data Analyst,26,Large Business,0,1,1,1,1,1,0,0,0,0,0
+4.1,Associated Electric Cooperative,"Springfield, MO",1961,Company - Private,Energy,"Oil, Gas, Energy & Utilities",$1 to $2 billion ,44.0,78,61.0,MO,Data Analyst,64,Large Business,0,1,0,0,1,0,0,0,0,0,0
+0.0,Seen by Indeed,"Austin, TX",2025,Company - Private,Other Industries,Other Sector,Unknown,,1,,PA,Data Scientist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0
+2.6,Software Engineering Institute,"Pittsburgh, PA",1984,College / University,Colleges & Universities,Education,Unknown,81.0,159,120.0,PA,Data Scientist,41,Large Business,1,0,0,0,0,0,0,0,0,1,1
+3.6,Sotheby's,"New York, NY",1744,Company - Public,Auctions & Galleries,Retail,$500 million to $1 billion ,95.0,161,128.0,NY,Data Scientist,281,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+3.5,First Tech Federal Credit Union,"San Jose, CA",1952,Company - Private,Banks & Credit Unions,Finance,$100 to $500 million ,75.0,124,99.5,OR,Data Scientist,73,Enterprise Business,1,1,1,0,1,1,0,0,1,1,0
+3.6,Amrock,"Detroit, MI",1997,Company - Private,Real Estate,Real Estate,$500 million to $1 billion ,72.0,120,96.0,MI,Data Scientist,28,Enterprise Business,1,0,0,0,1,0,0,0,0,1,0
+2.3,Vanda Pharmaceuticals,"Washington, DC",2003,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million ,76.0,126,101.0,DC,Data Scientist,22,Large Business,1,1,1,0,1,0,0,0,0,1,0
+3.9,Zest AI,"Burbank, CA",2009,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million ,114.0,182,148.0,CA,Data Scientist,16,Medium Business,1,0,0,0,0,0,0,0,0,1,0
+4.0,Novetta,"Mc Lean, VA",2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million ,108.0,176,142.0,VA,Data Scientist,13,Large Business,1,0,0,0,1,1,0,0,0,0,0
+4.1,CK-12 Foundation,"Palo Alto, CA",2007,Company - Private,KOther Industries2 Education,Education,Unknown,130.0,208,169.0,CA,Data Scientist,18,Small Business,0,1,1,0,1,1,0,0,0,1,1
+3.2,PennyMac,"Westlake Village, CA",2008,Company - Public,Lending,Finance,$500 million to $1 billion ,83.0,166,124.5,AZ,Data Scientist,17,Enterprise Business,1,1,0,0,1,0,0,0,0,1,0
+4.7,DECISIVE ANALYTICS Corporation,"Arlington, VA",1996,Company - Private,Aerospace & Defense,Aerospace & Defense,$25 to $50 million ,42.0,76,59.0,AL,Data Analyst,29,Medium Business,1,1,0,0,0,0,0,0,0,0,1
+4.2,Opinion Dynamics,"Waltham, MA",1987,Company - Private,Consulting,Business Services,$10 to $25 million ,37.0,68,52.5,CA,Data Analyst,38,Medium Business,1,0,0,0,1,0,0,0,0,1,0
+4.6,Applied Information Sciences,"Reston, VA",1982,Company - Private,IT Services,Information Technology,$50 to $100 million ,52.0,99,75.5,TX,Data Engineer,43,Large Business,0,0,1,1,1,0,1,1,1,0,0
+3.7,Swiss Re,"Zurich, Switzerland",1863,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion ,105.0,173,139.0,NY,Data Scientist,162,Enterprise Business,1,1,0,0,1,0,0,0,0,1,1
+4.0,Peterson Technology Partners,"Park Ridge, IL",1997,Contract,Computer Hardware & Software,Information Technology,$25 to $50 million ,,1,,IL,Data Scientist,28,Large Business,1,0,0,0,1,0,0,0,1,1,0
+0.0,PM2CM,"Torrance, CA",2025,Private Practice / Firm,Utilities,"Oil, Gas, Energy & Utilities",Unknown,,1,,CA,Data Analyst,0,Small Business,0,0,0,0,0,0,0,0,0,0,0
+4.5,NuWave Solutions,"Mc Lean, VA",1999,Company - Private,IT Services,Information Technology,$5 to $10 million ,,1,,VA,Data Engineer,26,Medium Business,1,0,0,0,0,1,0,0,0,0,0
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,71.0,134,102.5,MA,Data Engineer,244,Enterprise Business,1,1,1,0,1,1,1,0,1,0,0
+4.1,Apellis Pharmaceuticals,"Waltham, MA",2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,17,Large Business,0,1,0,0,0,0,0,0,0,0,0
+4.4,WK Dickson,"Charlotte, NC",1929,Company - Private,Architectural & Engineering Services,Business Services,$25 to $50 million ,39.0,82,60.5,SC,Other,96,Large Business,0,0,0,0,0,0,0,0,0,0,0
+5.0,Aptonet Inc,"Atlanta, GA",2004,Company - Private,IT Services,Information Technology,Unknown,,1,,GA,Machine Learning Engineer,21,Large Business,1,1,0,0,0,0,0,0,1,0,0
+3.7,The Hanover Insurance Group,"Worcester, MA",1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion ,114.0,179,146.5,MA,Data Scientist,173,Enterprise Business,1,1,0,0,1,0,0,0,0,1,0
+3.9,Genentech,"South San Francisco, CA",1976,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,88.0,162,125.0,CA,Other,49,Enterprise Business,0,1,0,0,0,0,0,0,0,0,1
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,60.0,102,81.0,MA,Data Analyst,174,Enterprise Business,1,0,1,0,1,0,0,0,0,0,0
+3.0,Tempus Labs,"Chicago, IL",2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,100.0,166,133.0,IL,Data Scientist,10,Large Business,1,0,0,0,1,1,0,0,0,1,0
+3.4,General Dynamics Information Technology,"Fairfax, VA",1996,Subsidiary or Business Segment,IT Services,Information Technology,$10+ billion ,55.0,99,77.0,DC,Data Analyst,29,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+4.1,ManTech,"Herndon, VA",1968,Company - Public,Research & Development,Business Services,$1 to $2 billion ,67.0,117,92.0,VA,Data Engineer,57,Enterprise Business,0,0,0,0,1,0,1,0,0,0,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,92.0,150,121.0,MA,Data Scientist,29,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+5.0,Freedman Healthcare,"Newton, MA",2005,Company - Private,Consulting,Business Services,$1 to $5 million ,,1,,MA,Data Analyst,20,Small Business,1,1,1,1,1,0,0,0,0,0,0
+3.6,Randstad,"Atlanta, GA",2025,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,Unknown,,1,,CA,Data Scientist,0,Enterprise Business,1,0,0,0,0,1,0,0,0,1,0
+4.0,Autodesk,"San Rafael, CA",1982,Company - Public,Computer Hardware & Software,Information Technology,$2 to $5 billion ,116.0,209,162.5,CA,Data Engineer,43,Enterprise Business,1,1,0,0,1,0,0,0,1,0,0
+3.9,Southwest Research Institute,"San Antonio, TX",1947,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion ,38.0,82,60.0,TX,Data Scientist,78,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+0.0,Muso,"San Francisco, CA",2025,Nonprofit Organization,Other Industries,Other Sector,Unknown,85.0,90,87.5,CA,Other,0,Large Business,1,1,1,0,1,0,0,0,0,0,0
+4.2,CyberCoders,"Irvine, CA",1999,Subsidiary or Business Segment,Staffing & Outsourcing,Business Services,$100 to $500 million ,,1,,VA,Data Scientist,26,Large Business,1,1,0,0,0,0,0,0,0,0,1
+4.4,SpringML,"Pleasanton, CA",2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,62.0,119,90.5,IN,Data Engineer,10,Small Business,1,0,0,0,0,0,1,0,1,1,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,86.0,143,114.5,MA,Data Scientist,29,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+3.8,Juniper Networks,"Sunnyvale, CA",1996,Company - Public,Telecommunications Services,Telecommunications,$2 to $5 billion ,93.0,149,121.0,CA,Data Scientist,29,Enterprise Business,1,1,0,0,1,0,0,0,1,1,0
+2.2,The Integer Group,"Denver, CO",1993,Subsidiary or Business Segment,Advertising & Marketing,Business Services,$50 to $100 million ,84.0,136,110.0,TX,Data Scientist,32,Large Business,0,0,1,0,0,0,0,0,0,0,0
+2.9,Karyopharm Therapeutics Inc.,"Newton, MA",2025,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,60.0,123,91.5,MA,Other,0,Large Business,0,1,0,0,0,0,0,0,0,0,0
+4.1,ManTech,"Herndon, VA",1968,Company - Public,Research & Development,Business Services,$1 to $2 billion ,52.0,89,70.5,VA,Data Analyst,57,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.3,McCarthy Building Co,"Saint Louis, MO",1864,Company - Private,Construction,"Construction, Repair & Maintenance",$2 to $5 billion ,,1,,MO,Data Analyst,161,Enterprise Business,0,0,0,1,1,0,0,1,0,0,0
+3.7,P2 Energy Solutions,"Denver, CO",2025,Company - Private,Computer Hardware & Software,Information Technology,Unknown,48.0,93,70.5,LA,Data Engineer,0,Large Business,0,1,0,0,1,0,0,0,0,0,0
+3.8,PNNL,"Richland, WA",1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion ,56.0,97,76.5,WA,Data Scientist,60,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,65.0,119,92.0,MA,Data Engineer,174,Enterprise Business,1,1,0,0,0,0,0,0,1,0,0
+4.0,SciPlay,"Cedar Falls, IA",1998,Company - Public,Video Games,Media,Unknown,,1,,TX,Data Engineer,27,Large Business,0,0,0,0,1,1,0,0,0,0,0
+4.7,Recursion Pharmaceuticals,"Salt Lake City, UT",2013,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million ,108.0,173,140.5,UT,Data Scientist,12,Medium Business,1,0,0,0,0,1,0,0,0,1,0
+3.5,Esri,"Redlands, CA",1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion ,63.0,101,82.0,VA,Data Scientist,56,Enterprise Business,1,0,0,0,1,0,0,0,0,0,0
+3.3,Rochester Regional Health,"Rochester, NY",2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion ,54.0,115,84.5,NY,Other,11,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.8,BioMarin Pharmaceutical,"San Rafael, CA",1997,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$500 million to $1 billion ,,1,,CA,Data Engineer,28,Enterprise Business,0,0,0,0,1,0,0,0,0,0,0
+4.4,Rubius Therapeutics,"Cambridge, MA",2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million ,90.0,179,134.5,MA,Other,12,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.6,GovTech,"Singapore, Singapore",2016,Government,Federal Agencies,Government,Unknown,,1,,CA,Data Scientist,9,Enterprise Business,1,1,1,0,0,0,0,0,0,1,0
+3.3,Samba TV,"San Francisco, CA",2008,Company - Private,Advertising & Marketing,Business Services,Unknown,127.0,202,164.5,CA,Data Scientist,17,Large Business,0,0,0,0,0,0,0,0,0,1,0
+3.4,SV Microwave,"West Palm Beach, FL",1991,Company - Public,Telecommunications Manufacturing,Telecommunications,$50 to $100 million ,31.0,57,44.0,FL,Data Analyst,34,Large Business,0,0,0,0,0,0,0,0,0,0,0
+4.0,ClearEdge,"Annapolis Junction, MD",2002,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million ,60.0,127,93.5,MD,Other,23,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+4.4,SpringML,"Pleasanton, CA",2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,75.0,143,109.0,VA,Data Engineer,10,Small Business,1,0,0,0,0,0,1,0,1,1,0
+3.8,Sumo Logic,"Redwood City, CA",2010,Company - Private,Computer Hardware & Software,Information Technology,Unknown,105.0,194,149.5,TX,Data Engineer,15,Large Business,0,0,0,0,0,1,0,0,1,0,0
+3.5,EAB,"Washington, DC",2007,Company - Private,Research & Development,Business Services,Unknown,45.0,86,65.5,DC,Data Engineer,18,Enterprise Business,0,1,0,0,1,1,0,0,1,0,0
+4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",2025,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown,,1,,UT,Data Engineer,0,Enterprise Business,0,0,1,1,1,0,0,0,0,1,0
+3.5,Brighthouse Financial,"Charlotte, NC",2017,Company - Public,Insurance Carriers,Insurance,Unknown,95.0,154,124.5,NC,Data Scientist,8,Enterprise Business,1,1,0,0,0,0,0,0,1,1,0
+4.4,OSI Engineering,"Campbell, CA",2010,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million ,,1,,CA,Data Analyst,15,Medium Business,1,1,0,0,0,0,0,0,0,0,1
+0.0,Monte Rosa Therapeutics,Other,2025,Other Organization,Other Industries,Other Sector,Unknown,,1,,MA,Other,0,Unknown,0,1,0,0,0,0,0,0,0,0,0
+2.9,Affinity Solutions,"New York, NY",1998,Company - Private,Advertising & Marketing,Business Services,Unknown,80.0,148,114.0,CA,Data Engineer,27,Medium Business,1,0,1,0,1,0,0,0,1,0,0
+3.9,Citadel Federal Credit Union,"Exton, PA",1937,Nonprofit Organization,Banks & Credit Unions,Finance,Unknown,36.0,62,49.0,PA,Data Analyst,88,Large Business,1,0,1,0,1,0,0,0,0,0,0
+4.4,OSI Engineering,"Campbell, CA",2010,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million ,,1,,CA,Data Scientist,15,Medium Business,1,1,1,0,1,0,0,0,0,1,0
+3.3,Rochester Regional Health,"Rochester, NY",2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion ,54.0,115,84.5,NY,Other,11,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.7,CALIBRE Systems,"Alexandria, VA",1989,Company - Private,IT Services,Information Technology,$100 to $500 million ,50.0,92,71.0,VA,Data Analyst,36,Large Business,0,1,1,0,1,0,0,0,0,0,0
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,67.0,135,101.0,MA,Other,174,Enterprise Business,0,0,0,0,0,0,0,0,0,1,0
+3.5,Esri,"Redlands, CA",1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion ,82.0,132,107.0,CA,Data Scientist,56,Enterprise Business,1,0,1,0,0,1,1,1,1,1,0
+4.7,New England Biolabs,"Ipswich, MA",1974,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,85.0,140,112.5,MA,Data Scientist,51,Large Business,1,1,0,0,0,0,0,0,0,0,0
+3.9,Tapjoy,"San Francisco, CA",2007,Company - Private,Internet,Information Technology,$10 to $25 million ,138.0,224,181.0,CA,Machine Learning Engineer,18,Large Business,1,0,0,0,1,0,0,0,1,1,0
+3.7,Motorola Solutions,"Chicago, IL",1928,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion ,42.0,80,61.0,IL,Data Analyst,97,Enterprise Business,1,0,0,0,1,0,1,0,1,1,0
+4.1,Credit Sesame,"Mountain View, CA",2010,Company - Private,Internet,Information Technology,$50 to $100 million ,190.0,220,205.0,CA,Data Engineer,15,Medium Business,1,0,0,0,1,1,0,0,1,1,0
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,68.0,139,103.5,KY,Other,150,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.2,Octane,"New York, NY",2014,Company - Private,Lending,Finance,Unknown,,1,,TX,Data Engineer,11,Medium Business,1,0,0,0,1,1,0,0,1,0,0
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,34.0,92,63.0,MA,Data Analyst,174,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.0,Infosys,"Bengaluru, India",1981,Company - Public,IT Services,Information Technology,$10+ billion ,54.0,71,62.5,CT,Data Analyst,44,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.5,Alignment Healthcare,"Orange, CA",2013,Company - Private,Health Care Services & Hospitals,Health Care,Unknown,65.0,124,94.5,CA,Data Engineer,12,Large Business,1,1,0,0,1,1,1,1,1,1,0
+4.6,Greenwich Biosciences,"Carlsbad, CA",2013,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,12,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.3,FrankCrum Staffing,"Clearwater, FL",1981,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million ,,1,,FL,Data Analyst,44,Medium Business,0,1,0,0,1,0,1,0,0,0,0
+0.0,Decode_M,"New York, NY",2025,Unknown,Other Industries,Other Sector,Unknown,,1,,NY,Data Scientist,0,Small Business,1,1,0,0,0,0,0,0,0,1,0
+3.6,San Manuel Casino,"Highland, CA",1986,Company - Private,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million ,35.0,62,48.5,CA,Data Analyst,39,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+3.5,Sunovion,"Marlborough, MA",2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion ,109.0,200,154.5,MA,Other,15,Enterprise Business,1,1,0,0,0,0,0,0,0,0,1
+4.0,Texas Health Huguley Hospital,"Arlington, TX",1977,Hospital,Health Care Services & Hospitals,Health Care,$50 to $100 million ,37.0,52,44.5,TX,Other,48,Enterprise Business,0,0,0,0,0,1,0,0,0,0,0
+3.7,Cboe Global Markets,"Chicago, IL",1973,Company - Public,Stock Exchanges,Finance,$500 million to $1 billion ,61.0,113,87.0,KS,Machine Learning Engineer,52,Large Business,1,1,0,0,1,0,1,0,0,1,0
+2.4,Teasdale Latin Foods,"Flower Mound, TX",2025,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million ,39.0,66,52.5,IL,Other,0,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.2,Guidepoint,"New York, NY",2003,Company - Private,Research & Development,Business Services,Unknown,43.0,86,64.5,NY,Data Engineer,22,Large Business,1,1,0,0,1,1,0,1,0,0,0
+2.1,Cerus Corporation,"Concord, CA",2025,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million ,74.0,149,111.5,CA,Other,0,Large Business,0,1,0,0,0,0,0,0,0,0,0
+4.5,GSN Games,"Boston, MA",1999,Company - Private,Video Games,Media,Unknown,,1,,CA,Data Scientist,26,Large Business,1,1,0,0,1,1,0,0,1,1,0
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,113.0,196,154.5,MA,Data Engineer,244,Enterprise Business,0,1,0,0,1,1,1,0,1,1,0
+2.6,Software Engineering Institute,"Pittsburgh, PA",1984,College / University,Colleges & Universities,Education,Unknown,81.0,167,124.0,PA,Data Scientist,41,Large Business,0,0,0,0,0,0,0,0,0,1,0
+4.4,Maven Wave Partners,"Chicago, IL",2008,Company - Private,Consulting,Business Services,$50 to $100 million ,97.0,160,128.5,IL,Data Scientist,17,Large Business,1,1,1,0,1,1,1,1,0,1,0
+4.1,Redstream Technology,"New York, NY",2007,Company - Private,IT Services,Information Technology,$5 to $10 million ,,1,,GA,Data Engineer,18,Small Business,0,0,0,0,0,0,0,0,0,0,0
+3.7,Vail Health,"Vail, CO",1966,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million ,50.0,81,65.5,CO,Other,59,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.1,"Qualifacts Systems, Inc.","Nashville, TN",2002,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million ,,1,,TN,Data Analyst,23,Large Business,0,0,0,0,1,1,0,0,0,0,0
+3.7,CALIBRE Systems,"Alexandria, VA",1989,Company - Private,IT Services,Information Technology,$100 to $500 million ,,1,,VA,Data Analyst,36,Large Business,0,1,1,0,0,0,0,0,0,0,0
+2.7,Sterling National Bank,"New York, NY",1966,Company - Public,Banks & Credit Unions,Finance,$10+ billion ,,1,,NY,Other,59,Enterprise Business,0,0,0,0,0,1,0,0,0,1,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,,1,,MA,Data Scientist,29,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.5,Central California Alliance for Health,"Scotts Valley, CA",1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion ,42.0,86,64.0,CA,Data Analyst,29,Large Business,0,0,1,0,1,0,0,0,0,0,0
+3.0,Pilot Flying J Travel Centers LLC,"Knoxville, TN",1958,Company - Private,Gas Stations,Retail,$10+ billion ,69.0,127,98.0,TN,Data Engineer,67,Enterprise Business,1,0,0,0,1,0,0,0,0,0,0
+4.2,Nuna,"San Francisco, CA",2010,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,110.0,175,142.5,CA,Data Scientist,15,Medium Business,0,0,0,0,0,0,0,0,0,1,0
+4.1,Amount,"Chicago, IL",2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,,1,,IL,Data Scientist,10,Large Business,1,0,0,0,0,0,0,0,0,1,0
+3.9,AstraZeneca,"Cambridge, United Kingdom",1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,102.0,172,137.0,NY,Data Scientist,112,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+4.0,Pinnacol Assurance,"Denver, CO",1915,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion ,74.0,124,99.0,CO,Data Engineer,110,Large Business,1,0,0,0,1,1,0,0,0,0,0
+3.3,Palermo's Pizza,"Milwaukee, WI",1964,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown,40.0,68,54.0,WI,Other,61,Large Business,0,0,0,0,0,0,0,0,0,0,0
+4.4,MathWorks,"Natick, MA",1984,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion ,108.0,171,139.5,MA,Data Scientist,41,Enterprise Business,1,0,1,1,1,0,0,0,0,0,1
+3.4,MetroStar Systems,"Reston, VA",1999,Company - Private,IT Services,Information Technology,$25 to $50 million ,76.0,142,109.0,MD,Data Engineer,26,Large Business,0,0,0,0,0,1,0,0,0,0,0
+4.1,NJF Global Holdings,"London, United Kingdom",2003,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million ,,1,,NY,Data Engineer,22,Medium Business,1,0,0,0,1,0,0,0,0,0,0
+3.3,Liberty Mutual Insurance,"Boston, MA",1912,Company - Private,Insurance Carriers,Insurance,$10+ billion ,202.0,306,254.0,IL,Data Scientist,113,Enterprise Business,1,0,0,0,0,0,0,0,0,0,0
+5.0,Alector,"South San Francisco, CA",2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,12,Medium Business,0,1,0,0,1,1,0,0,0,0,0
+2.9,Audentes Therapeutics,"San Francisco, CA",2012,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,49.0,97,73.0,CA,Other,13,Large Business,0,0,0,0,0,0,0,0,0,0,0
+2.7,Advanced BioScience Laboratories,"Rockville, MD",1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million ,49.0,113,81.0,MD,Other,64,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.6,Beebe Healthcare,"Lewes, DE",1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million ,44.0,71,57.5,DE,Other,90,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",2025,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown,,1,,UT,Data Engineer,0,Enterprise Business,0,1,1,1,1,0,0,0,0,1,0
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,65.0,134,99.5,NC,Data Scientist,150,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.3,National Interstate,"Richfield, OH",1989,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion ,32.0,59,45.5,OH,Data Analyst,36,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,,1,,MA,Data Scientist,29,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.5,Moser Consulting,"Indianapolis, IN",1996,Company - Private,Consulting,Business Services,$25 to $50 million ,87.0,158,122.5,IN,Data Engineer,29,Medium Business,1,0,0,0,1,1,1,1,1,1,0
+3.9,TransUnion,"Chicago, IL",1968,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion ,107.0,173,140.0,IL,Data Scientist,57,Enterprise Business,1,1,0,0,1,0,0,0,0,1,0
+3.2,MITRE,"Bedford, MA",1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion ,56.0,99,77.5,VA,Data Scientist,67,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.3,Mcphail Associates,"Cambridge, MA",1976,Company - Private,Construction,"Construction, Repair & Maintenance",Unknown,52.0,58,55.0,MA,Other,49,Small Business,0,1,0,0,0,0,0,0,0,0,0
+2.9,Pharmavite,"West Hills, CA",1971,Company - Private,Consumer Products Manufacturing,Manufacturing,$1 to $2 billion ,,1,,CA,Other,54,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,80.0,155,117.5,NC,Other,150,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+2.4,Crown Bioscience,"San Diego, CA",2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million ,43.0,98,70.5,CA,Other,19,Large Business,0,0,0,0,0,0,0,0,0,0,0
+4.8,HOVER,"San Francisco, CA",2011,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million ,45.0,78,61.5,CA,Data Analyst,14,Medium Business,0,1,1,0,1,0,0,0,0,0,0
+2.9,Q2 Solutions,"Morrisville, NC",2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,44.0,96,70.0,NY,Other,10,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+2.9,Q2 Solutions,"Morrisville, NC",2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,50.0,110,80.0,GA,Other,10,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.4,Arbella Insurance,"Quincy, MA",1988,Company - Private,Insurance Carriers,Insurance,$100 to $500 million ,61.0,119,90.0,MA,Data Engineer,37,Enterprise Business,0,1,0,0,1,0,1,0,1,0,0
+0.0,Kronos Bio,"San Mateo, CA",2025,Company - Private,Other Industries,Other Sector,Unknown,100.0,140,120.0,MA,Data Scientist,0,Unknown,0,1,0,0,0,0,0,0,0,0,0
+2.6,Software Engineering Institute,"Pittsburgh, PA",1984,College / University,Colleges & Universities,Education,Unknown,56.0,91,73.5,PA,Other,41,Large Business,0,1,0,0,0,0,0,0,0,1,0
+4.8,IGNW,"Portland, OR",2015,Company - Private,IT Services,Information Technology,$25 to $50 million ,,1,,TX,Data Engineer,10,Large Business,1,0,0,0,1,0,0,0,0,0,0
+4.6,"SmartNews, Inc.","San Francisco, CA",2012,Company - Private,Internet,Information Technology,Unknown,,1,,CA,Data Scientist,13,Medium Business,1,0,0,0,0,0,0,0,0,1,0
+3.8,Zimmerman Advertising,"Fort Lauderdale, FL",1984,Subsidiary or Business Segment,Advertising & Marketing,Business Services,Unknown,68.0,114,91.0,FL,Data Scientist,41,Large Business,1,1,1,0,1,0,1,0,0,1,0
+5.0,BPA Services,"Alexandria, VA",2025,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,150.0,160,155.0,DC,Data Scientist,0,Unknown,0,1,0,0,0,1,0,0,0,0,0
+4.3,h2o.ai,"Mountain View, CA",2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,,1,,NY,Data Scientist,14,Large Business,0,1,0,0,0,1,0,1,0,1,0
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,101.0,158,129.5,MA,Other,174,Enterprise Business,1,1,1,0,1,1,1,0,1,0,0
+4.2,Octane,"New York, NY",2014,Company - Private,Lending,Finance,Unknown,,1,,NY,Data Engineer,11,Medium Business,1,0,0,0,1,1,0,0,1,0,0
+4.8,Health Union,"Philadelphia, PA",2009,Company - Private,Publishing,Media,Unknown,,1,,PA,Data Analyst,16,Medium Business,0,1,1,0,0,0,0,0,0,0,0
+4.0,Pfizer,"New York, NY",1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,125.0,210,167.5,NY,Data Scientist,176,Enterprise Business,0,1,0,0,0,1,0,0,0,0,0
+3.8,Associated Banc-Corp,"Green Bay, WI",1870,Company - Public,Banks & Credit Unions,Finance,$1 to $2 billion ,43.0,77,60.0,WI,Data Analyst,155,Enterprise Business,0,1,0,0,0,1,0,0,0,0,0
+3.6,Shine Systems,"Charlottesville, VA",2008,Company - Private,Consulting,Business Services,Unknown,,1,,VA,Other,17,Medium Business,0,0,0,0,0,0,0,0,0,0,0
+3.9,Zest AI,"Burbank, CA",2009,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million ,139.0,221,180.0,CA,Data Scientist,16,Medium Business,1,1,0,0,1,0,0,0,0,1,0
+3.8,Fareportal,"New York, NY",2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion ,44.0,86,65.0,NY,Data Analyst,23,Enterprise Business,0,1,0,0,1,0,0,0,0,0,0
+4.3,Genesys,"Daly City, CA",1990,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion ,78.0,147,112.5,NC,Data Engineer,35,Enterprise Business,1,0,0,0,0,1,1,0,1,0,0
+1.9,Moda Operandi,"New York, NY",2010,Company - Private,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million ,65.0,110,87.5,NY,Data Analyst,15,Large Business,1,1,0,0,1,0,0,0,0,0,0
+3.3,Liberty Mutual Insurance,"Boston, MA",1912,Company - Private,Insurance Carriers,Insurance,$10+ billion ,37.0,66,51.5,IN,Other,113,Enterprise Business,1,1,0,0,1,0,0,0,0,0,0
+4.7,QK,"Visalia, CA",1972,Company - Private,Architectural & Engineering Services,Business Services,$10 to $25 million ,38.0,64,51.0,CA,Other,53,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+3.1,Santander,"Madrid, Spain",1856,Company - Private,Banks & Credit Unions,Finance,$10+ billion ,43.0,82,62.5,MA,Data Scientist,169,Enterprise Business,1,1,0,0,1,0,0,0,0,0,1
+3.4,Tivity Health,"Franklin, TN",1981,Company - Public,Health Care Services & Hospitals,Health Care,Unknown,90.0,110,100.0,AZ,Data Engineer,44,Large Business,0,0,0,0,1,0,1,0,0,0,0
+4.4,BRMi,"Washington, DC",2004,Company - Private,IT Services,Information Technology,Unknown,61.0,109,85.0,VA,Data Engineer,21,Medium Business,1,0,0,0,0,1,1,1,1,0,0
+3.9,Luminar Technologies,"Orlando, FL",2012,Company - Private,Computer Hardware & Software,Information Technology,Unknown,93.0,151,122.0,FL,Data Scientist,13,Large Business,1,0,0,0,0,1,0,0,0,0,1
+3.9,"Emtec, Inc.","Jacksonville, FL",1995,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million ,52.0,81,66.5,IL,Other,30,Large Business,1,0,1,1,1,0,0,0,0,0,0
+4.7,Veterans United Home Loans,"Columbia, MO",2002,Company - Private,Lending,Finance,Unknown,40.0,101,70.5,MO,Other,23,Enterprise Business,0,1,1,0,1,0,1,0,1,0,0
+4.7,Praetorian,"Austin, TX",2010,Company - Private,Security Services,Business Services,$10 to $25 million ,97.0,180,138.5,TX,Data Engineer,15,Medium Business,1,0,0,0,1,0,0,0,1,1,0
+3.4,PA Consulting,"London, United Kingdom",1943,Company - Private,Consulting,Business Services,$100 to $500 million ,81.0,134,107.5,MA,Data Scientist,82,Enterprise Business,0,1,1,0,1,0,1,0,1,1,0
+3.8,Agios Pharmaceuticals,"Cambridge, MA",2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million ,84.0,157,120.5,MA,Other,17,Large Business,0,0,0,0,0,0,0,0,0,0,0
+2.7,Advanced BioScience Laboratories,"Rockville, MD",1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million ,49.0,113,81.0,MD,Other,64,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,68.0,139,103.5,KY,Other,150,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.4,Echo Global Logistics,"Chicago, IL",2005,Company - Public,Transportation Management,Transportation & Logistics,$2 to $5 billion ,75.0,140,107.5,IL,Data Engineer,20,Enterprise Business,0,0,0,0,1,0,0,0,0,0,0
+4.0,"Meridian Technologies, Inc","Farmington Hills, MI",2025,Unknown,Other Industries,Other Sector,Unknown,,1,,WA,Data Engineer,0,Unknown,1,1,0,0,1,1,1,0,1,1,0
+3.4,Orange Coast Memorial Medical Center,"Fountain Valley, CA",2005,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion ,,1,,CA,Other,20,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.0,Glassdoor,"Mill Valley, CA",2007,Company - Private,Internet,Information Technology,Unknown,121.0,203,162.0,CA,Data Engineer,18,Enterprise Business,1,1,0,0,0,1,1,0,1,1,0
+3.5,Esri,"Redlands, CA",1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion ,52.0,85,68.5,CA,Data Scientist,56,Enterprise Business,1,1,0,0,0,0,0,0,1,1,0
+3.4,Assurant,"New York, NY",1978,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion ,81.0,140,110.5,OH,Data Scientist,47,Enterprise Business,0,1,0,0,1,0,0,0,0,1,0
+3.7,Caterpillar,"Deerfield, IL",1925,Company - Public,Industrial Manufacturing,Manufacturing,$10+ billion ,63.0,99,81.0,IL,Data Scientist,100,Enterprise Business,0,0,1,0,0,0,0,0,0,0,0
+4.3,Equity Residential,"Chicago, IL",1993,Company - Public,Real Estate,Real Estate,$2 to $5 billion ,110.0,150,130.0,IL,Data Scientist,32,Enterprise Business,1,1,1,0,1,0,1,0,1,1,0
+3.7,F&G,"Des Moines, IA",2025,Subsidiary or Business Segment,Insurance Carriers,Insurance,$100 to $500 million ,83.0,148,115.5,IA,Data Engineer,0,Large Business,1,1,1,0,1,0,0,0,0,0,0
+4.7,"Collinwood Technology Partners, LLC","Schaumburg, IL",2014,Company - Private,IT Services,Information Technology,$1 to $5 million ,,1,,IL,Data Engineer,11,Medium Business,0,0,0,0,1,1,0,1,0,0,0
+3.8,PNNL,"Richland, WA",1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion ,60.0,101,80.5,WA,Data Scientist,60,Enterprise Business,0,0,0,0,0,0,0,0,0,1,0
+4.4,"Homology Medicines, Inc.","Bedford, MA",2025,Company - Public,Other Industries,Other Sector,Unknown,,1,,MA,Other,0,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+3.7,FHLBank Pittsburgh,"Pittsburgh, PA",1932,Company - Private,Banks & Credit Unions,Finance,$1 to $2 billion ,,1,,PA,Data Analyst,93,Large Business,0,0,1,0,0,1,0,0,0,0,0
+3.7,Sanofi,"Paris, France",1973,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,,1,,MA,Other,52,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.6,GreatAmerica Financial Services,"Cedar Rapids, IA",1992,Company - Private,Lending,Finance,$100 to $500 million ,31.0,55,43.0,IA,Data Analyst,33,Large Business,0,1,1,0,1,0,0,0,0,0,0
+4.4,Acceleron Pharma,"Cambridge, MA",2003,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,102.0,178,140.0,MA,Other,22,Large Business,0,1,0,0,0,0,0,0,0,0,0
+0.0,Kronos Bio,"San Mateo, CA",2025,Company - Private,Other Industries,Other Sector,Unknown,110.0,130,120.0,MA,Other,0,Unknown,0,0,0,0,0,0,0,0,0,0,0
+3.0,AmeriHealth Caritas,"Philadelphia, PA",1983,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion ,48.0,85,66.5,PA,Data Analyst,42,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+4.7,Strategic Employment Partners,"Los Angeles, CA",2006,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million ,66.0,123,94.5,CA,Data Engineer,19,Medium Business,1,0,0,0,0,1,0,0,0,0,0
+3.8,PNNL,"Richland, WA",1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion ,92.0,146,119.0,WA,Data Scientist,60,Enterprise Business,0,0,0,0,0,0,0,0,0,1,0
+3.2,Catholic Health Initiatives,"Englewood, CO",1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion ,44.0,60,52.0,NE,Other,29,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+2.7,FLEETCOR,"Peachtree Corners, GA",2000,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion ,21.0,35,28.0,TN,Data Analyst,25,Enterprise Business,0,1,1,0,0,0,0,0,0,0,0
+3.3,Liberty Mutual Insurance,"Boston, MA",1912,Company - Private,Insurance Carriers,Insurance,$10+ billion ,150.0,239,194.5,IL,Data Scientist,113,Enterprise Business,1,0,0,0,0,0,0,0,0,0,0
+3.9,Southwest Research Institute,"San Antonio, TX",1947,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion ,52.0,91,71.5,TX,Other,78,Enterprise Business,1,1,0,0,1,1,0,1,0,0,0
+3.7,Applied Research Laboratories,"Austin, TX",2025,College / University,Colleges & Universities,Education,Unknown,82.0,129,105.5,TX,Data Scientist,0,Large Business,1,0,0,0,0,1,0,0,0,1,1
+2.6,Software Engineering Institute,"Pittsburgh, PA",1984,College / University,Colleges & Universities,Education,Unknown,,1,,PA,Other,41,Large Business,0,0,0,0,0,0,0,0,0,1,0
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,47.0,101,74.0,NC,Other,150,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.1,Apellis Pharmaceuticals,"Waltham, MA",2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,MA,Other,17,Large Business,0,0,0,0,0,1,0,0,0,0,0
+3.7,Raytheon,"Waltham, MA",1922,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion ,49.0,76,62.5,AL,Data Analyst,103,Enterprise Business,0,1,0,0,0,0,0,0,0,0,1
+0.0,OneThree Biotech,"New York, NY",2025,Unknown,Other Industries,Other Sector,Unknown,,1,,NY,Data Engineer,0,Small Business,1,0,0,0,0,1,1,0,1,1,0
+4.3,RTI International,"Research Triangle Park, NC",1958,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion ,43.0,88,65.5,NC,Other,67,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.6,TRANZACT,"Fort Lee, NJ",1989,Company - Private,Advertising & Marketing,Business Services,Unknown,124.0,199,161.5,NJ,Data Scientist,36,Enterprise Business,1,1,1,1,1,1,0,0,0,0,0
+2.1,United BioSource,"Blue Bell, PA",2003,Other Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million ,52.0,93,72.5,PA,Data Analyst,22,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+3.9,Figure Eight,"San Francisco, CA",2008,Company - Public,Computer Hardware & Software,Information Technology,$10 to $25 million ,97.0,181,139.0,CA,Data Engineer,17,Medium Business,1,1,0,0,0,1,0,0,0,1,0
+5.0,Senti Biosciences,"South San Francisco, CA",2016,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,9,Medium Business,0,0,0,0,0,0,0,0,0,0,0
+3.9,Tapjoy,"San Francisco, CA",2007,Company - Private,Internet,Information Technology,$10 to $25 million ,100.0,173,136.5,CA,Data Engineer,18,Large Business,0,0,0,0,1,0,0,0,0,1,0
+3.8,Fareportal,"New York, NY",2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion ,53.0,96,74.5,NY,Data Scientist,23,Enterprise Business,1,0,0,0,0,0,0,0,1,1,0
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,65.0,96,80.5,NC,Other,150,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.5,Sartorius,"Gottingen, Germany",1870,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion ,56.0,95,75.5,NM,Data Scientist,155,Enterprise Business,1,1,0,0,0,0,0,0,0,1,1
+4.7,1904labs,"Saint Louis, MO",2016,Company - Private,IT Services,Information Technology,Unknown,111.0,176,143.5,MO,Data Scientist,9,Medium Business,1,0,0,0,1,0,0,0,1,1,0
+5.0,Royce Geospatial,"Arlington, VA",2014,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million ,75.0,127,101.0,VA,Data Scientist,11,Medium Business,1,0,0,0,1,0,0,0,0,0,0
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,65.0,119,92.0,MA,Data Engineer,174,Enterprise Business,1,1,0,0,0,0,0,0,1,0,0
+3.8,PNNL,"Richland, WA",1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion ,56.0,97,76.5,WA,Data Scientist,60,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+4.7,Recursion Pharmaceuticals,"Salt Lake City, UT",2013,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million ,108.0,173,140.5,UT,Data Scientist,12,Medium Business,1,0,0,0,0,1,0,0,0,1,0
+3.6,Citi,"New York, NY",1812,Company - Public,Investment Banking & Asset Management,Finance,$10+ billion ,94.0,139,116.5,NJ,Data Scientist,213,Enterprise Business,0,1,0,0,1,0,0,0,0,0,0
+4.0,SciPlay,"Cedar Falls, IA",1998,Company - Public,Video Games,Media,Unknown,,1,,TX,Data Engineer,27,Large Business,0,0,0,0,1,1,0,0,0,0,0
+4.7,Sage Intacct,"San Jose, CA",1999,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,Unknown,176.0,289,232.5,CA,Data Scientist,26,Large Business,1,0,0,0,1,0,0,0,0,1,0
+3.5,Scale AI,"San Francisco, CA",2016,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,92.0,149,120.5,CA,Data Scientist,9,Medium Business,1,0,0,0,1,0,0,0,0,1,0
+3.5,Esri,"Redlands, CA",1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion ,63.0,101,82.0,VA,Data Scientist,56,Enterprise Business,1,0,0,0,1,0,0,0,0,0,0
+3.6,Delphi-US,"Newport, RI",2025,Company - Private,Staffing & Outsourcing,Business Services,Less than $1 million ,,1,,NY,Data Scientist,0,Small Business,1,1,0,0,1,1,1,0,1,1,0
+3.3,Rochester Regional Health,"Rochester, NY",2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion ,54.0,115,84.5,NY,Other,11,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.4,Astreya,"San Jose, CA",2001,Company - Private,IT Services,Information Technology,$50 to $100 million ,,1,,CA,Data Engineer,24,Enterprise Business,1,0,0,0,1,0,1,0,0,1,1
+2.7,Change Healthcare,"Nashville, TN",2007,Company - Public,IT Services,Information Technology,Unknown,118.0,188,153.0,CA,Data Scientist,18,Enterprise Business,1,0,0,0,1,1,0,0,1,1,0
+3.4,MZ,"Palo Alto, CA",2008,Company - Private,Internet,Information Technology,Unknown,108.0,146,127.0,CA,Data Scientist,17,Large Business,1,0,0,0,1,0,1,0,1,1,0
+4.7,HG Insights,"Santa Barbara, CA",2010,Company - Private,Computer Hardware & Software,Information Technology,Unknown,65.0,106,85.5,CA,Data Scientist,15,Medium Business,1,1,0,0,1,0,1,0,1,1,0
+2.8,"1-800-FLOWERS.COM, Inc.","Carle Place, NY",1976,Company - Public,Wholesale,Business Services,$1 to $2 billion ,55.0,98,76.5,NY,Data Scientist,49,Enterprise Business,1,1,1,0,1,0,0,0,0,0,0
+3.5,CBS Interactive,"San Francisco, CA",1992,Subsidiary or Business Segment,TV Broadcast & Cable Networks,Media,$500 million to $1 billion ,94.0,162,128.0,NY,Data Scientist,33,Enterprise Business,1,0,1,0,1,0,1,0,1,1,0
+3.8,BioMarin Pharmaceutical,"San Rafael, CA",1997,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$500 million to $1 billion ,,1,,CA,Data Engineer,28,Enterprise Business,0,0,0,0,1,0,0,0,0,0,0
+3.2,"Numeric, LLC","Chadds Ford, PA",2025,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million ,63.0,120,91.5,PA,Data Engineer,0,Small Business,1,1,0,0,1,1,1,0,1,0,0
+4.4,Rubius Therapeutics,"Cambridge, MA",2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million ,90.0,179,134.5,MA,Other,12,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.3,Samba TV,"San Francisco, CA",2008,Company - Private,Advertising & Marketing,Business Services,Unknown,127.0,202,164.5,CA,Data Scientist,17,Large Business,0,0,0,0,0,0,0,0,0,1,0
+4.0,ClearEdge,"Annapolis Junction, MD",2002,Company - Private,Computer Hardware & Software,Information Technology,$5 to $10 million ,60.0,127,93.5,MD,Other,23,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+3.6,GovTech,"Singapore, Singapore",2016,Government,Federal Agencies,Government,Unknown,,1,,CA,Data Scientist,9,Enterprise Business,1,1,1,0,0,0,0,0,0,1,0
+3.4,SV Microwave,"West Palm Beach, FL",1991,Company - Public,Telecommunications Manufacturing,Telecommunications,$50 to $100 million ,31.0,57,44.0,FL,Data Analyst,34,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.8,Sumo Logic,"Redwood City, CA",2010,Company - Private,Computer Hardware & Software,Information Technology,Unknown,105.0,194,149.5,TX,Data Engineer,15,Large Business,0,0,0,0,0,1,0,0,1,0,0
+3.5,EAB,"Washington, DC",2007,Company - Private,Research & Development,Business Services,Unknown,45.0,86,65.5,DC,Data Engineer,18,Enterprise Business,0,1,0,0,1,1,0,0,1,0,0
+4.4,SpringML,"Pleasanton, CA",2015,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,75.0,143,109.0,VA,Data Engineer,10,Small Business,1,0,0,0,0,0,1,0,1,1,0
+4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",2025,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown,,1,,UT,Data Engineer,0,Enterprise Business,0,0,1,1,1,0,0,0,0,1,0
+3.7,Samsung Research America,"Mountain View, CA",1988,Subsidiary or Business Segment,Computer Hardware & Software,Information Technology,$50 to $100 million ,126.0,228,177.0,CA,Data Engineer,37,Enterprise Business,1,0,0,0,1,1,1,0,1,0,0
+3.9,Cuboid IT Solutions,"San Jose, CA",2025,Company - Private,IT Services,Information Technology,$25 to $50 million ,,1,,AZ,Data Scientist,0,Large Business,1,0,1,0,1,1,0,1,0,1,0
+4.7,Systems & Technology Research,"Woburn, MA",2010,Company - Private,Aerospace & Defense,Aerospace & Defense,$100 to $500 million ,80.0,134,107.0,VA,Data Scientist,15,Large Business,1,1,0,0,1,0,1,0,1,1,0
+4.1,Netskope,"Santa Clara, CA",2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,120.0,189,154.5,CA,Data Scientist,13,Large Business,1,1,0,0,0,0,0,0,1,1,0
+3.9,"Pyramid Consulting, Inc.","Alpharetta, GA",1996,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million ,,1,,NJ,Data Scientist,29,Enterprise Business,0,0,0,0,1,0,1,0,1,0,0
+4.0,Lorven Technologies Inc,"Plainsboro, NJ",2025,Company - Private,Accounting,Accounting & Legal,Less than $1 million ,85.0,142,113.5,CA,Data Scientist,0,Small Business,1,0,0,0,1,0,0,0,1,1,0
+3.5,Brighthouse Financial,"Charlotte, NC",2017,Company - Public,Insurance Carriers,Insurance,Unknown,95.0,154,124.5,NC,Data Scientist,8,Enterprise Business,1,1,0,0,0,0,0,0,1,1,0
+2.5,CareDx,"Brisbane, CA",2025,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,111.0,176,143.5,CA,Data Scientist,0,Small Business,1,1,0,0,1,0,0,0,0,1,0
+3.9,Serigor Inc.,"Baltimore, MD",2025,Company - Private,IT Services,Information Technology,Less than $1 million ,87.0,140,113.5,CA,Data Scientist,0,Small Business,1,0,0,0,1,0,0,0,0,0,0
+3.4,Leidos,"Reston, VA",1969,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion ,76.0,127,101.5,VA,Data Scientist,56,Enterprise Business,1,0,0,0,0,1,0,0,0,0,0
+3.6,Beckman Coulter Diagnostics,"Brea, CA",1935,Subsidiary or Business Segment,Health Care Products Manufacturing,Manufacturing,$2 to $5 billion ,54.0,92,73.0,NY,Data Analyst,90,Enterprise Business,0,1,1,1,1,1,0,1,0,0,0
+4.4,OSI Engineering,"Campbell, CA",2010,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million ,,1,,CA,Data Analyst,15,Medium Business,1,1,0,0,0,0,0,0,0,0,1
+3.5,IHS Markit,"London, United Kingdom",2016,Company - Public,Consulting,Business Services,$2 to $5 billion ,61.0,100,80.5,NY,Data Scientist,9,Enterprise Business,1,0,0,0,1,1,0,0,0,1,0
+0.0,ALIN,"Noida, India",2025,Company - Private,Other Industries,Other Sector,Unknown,81.0,140,110.5,NY,Data Scientist,0,Unknown,1,0,0,0,1,0,0,0,0,1,0
+0.0,Monte Rosa Therapeutics,Other,2025,Other Organization,Other Industries,Other Sector,Unknown,,1,,MA,Other,0,Unknown,0,1,0,0,0,0,0,0,0,0,0
+2.9,Affinity Solutions,"New York, NY",1998,Company - Private,Advertising & Marketing,Business Services,Unknown,80.0,148,114.0,CA,Data Engineer,27,Medium Business,1,0,1,0,1,0,0,0,1,0,0
+3.5,e-IT Professionals Corp.,"Canton, MI",2025,Company - Private,"Health, Beauty, & Fitness",Consumer Services,$5 to $10 million ,108.0,171,139.5,CA,Data Scientist,0,Medium Business,1,0,0,0,1,0,0,0,0,1,0
+4.8,TechProjects,"North Brunswick, NJ",2011,Company - Private,IT Services,Information Technology,Unknown,112.0,179,145.5,NY,Data Scientist,14,Small Business,1,1,1,0,1,0,0,0,0,0,0
+4.0,Biz2Credit Inc,"New York, NY",2007,Company - Private,Lending,Finance,$100 to $500 million ,63.0,111,87.0,NY,Data Scientist,18,Large Business,0,1,0,0,0,0,0,0,0,0,0
+4.2,PeoplesBank,"Holyoke, MA",1885,Company - Private,Banks & Credit Unions,Finance,$50 to $100 million ,75.0,126,100.5,MA,Data Scientist,140,Large Business,0,1,0,0,1,0,0,0,0,0,0
+3.8,Capgemini,"Paris, France",1967,Company - Public,Enterprise Software & Network Solutions,Information Technology,$10+ billion ,110.0,184,147.0,NY,Data Scientist,58,Enterprise Business,1,1,0,0,1,0,1,1,1,1,1
+3.7,GNY Insurance Companies,"New York, NY",1914,Company - Private,Insurance Carriers,Insurance,$100 to $500 million ,76.0,145,110.5,NY,Data Engineer,111,Large Business,1,1,0,0,1,0,0,0,0,0,0
+4.4,Watchful,"Apopka, FL",2025,Company - Private,Security Services,Business Services,Unknown,,1,,CA,Data Scientist,0,Small Business,1,0,0,0,0,0,0,0,0,1,0
+5.0,Quality Consulting Group,"Guaynabo, PR",2011,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $5 million ,,1,,PR,Other,14,Medium Business,0,0,0,0,0,0,0,0,0,0,0
+3.9,Citadel Federal Credit Union,"Exton, PA",1937,Nonprofit Organization,Banks & Credit Unions,Finance,Unknown,36.0,62,49.0,PA,Data Analyst,88,Large Business,1,0,1,0,1,0,0,0,0,0,0
+4.6,"Conch Technologies, Inc","Memphis, TN",2025,Company - Private,Consulting,Business Services,$5 to $10 million ,70.0,118,94.0,MA,Data Scientist,0,Medium Business,1,0,1,1,1,1,1,1,1,1,0
+4.4,OSI Engineering,"Campbell, CA",2010,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million ,,1,,CA,Data Scientist,15,Medium Business,1,1,1,0,1,0,0,0,0,1,0
+4.3,Medidata Solutions,"New York, NY",1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion ,94.0,153,123.5,NY,Data Scientist,26,Enterprise Business,1,0,0,0,1,1,0,0,0,1,0
+2.9,Healthfirst,"New York, NY",1993,Nonprofit Organization,Insurance Carriers,Insurance,Unknown,,1,,NY,Data Scientist,32,Enterprise Business,0,0,0,0,0,1,0,1,0,1,0
+3.3,Rochester Regional Health,"Rochester, NY",2014,Hospital,Health Care Services & Hospitals,Health Care,$500 million to $1 billion ,54.0,115,84.5,NY,Other,11,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.7,CALIBRE Systems,"Alexandria, VA",1989,Company - Private,IT Services,Information Technology,$100 to $500 million ,50.0,92,71.0,VA,Data Analyst,36,Large Business,0,1,1,0,1,0,0,0,0,0,0
+4.0,HP Inc.,"Palo Alto, CA",1939,Company - Public,Computer Hardware & Software,Information Technology,Unknown,49.0,97,73.0,OR,Data Engineer,86,Enterprise Business,0,0,0,0,1,0,0,0,0,0,0
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,67.0,135,101.0,MA,Other,174,Enterprise Business,0,0,0,0,0,0,0,0,0,1,0
+3.9,Tapjoy,"San Francisco, CA",2007,Company - Private,Internet,Information Technology,$10 to $25 million ,138.0,224,181.0,CA,Machine Learning Engineer,18,Large Business,1,0,0,0,1,0,0,0,1,1,0
+3.7,Northrop Grumman,"Falls Church, VA",1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion ,80.0,139,109.5,CA,Data Scientist,86,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+3.7,Visa Inc.,"Foster City, CA",1958,Company - Public,IT Services,Information Technology,$10+ billion ,158.0,211,184.5,WA,Data Scientist,67,Enterprise Business,1,1,1,0,1,0,0,0,0,1,0
+3.9,Quartet Health,"New York, NY",2014,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,150.0,180,165.0,NY,Data Scientist,11,Large Business,1,0,0,0,0,0,1,0,0,1,0
+3.7,Motorola Solutions,"Chicago, IL",1928,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion ,42.0,80,61.0,IL,Data Analyst,97,Enterprise Business,1,0,0,0,1,0,1,0,1,1,0
+4.1,Credit Sesame,"Mountain View, CA",2010,Company - Private,Internet,Information Technology,$50 to $100 million ,190.0,220,205.0,CA,Data Engineer,15,Medium Business,1,0,0,0,1,1,0,0,1,1,0
+3.1,Success Academy Charter Schools,"New York, NY",2006,School / School District,KOther Industries2 Education,Education,$100 to $500 million ,42.0,77,59.5,NY,Data Analyst,19,Enterprise Business,1,1,0,0,1,0,0,0,0,0,0
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,68.0,139,103.5,KY,Other,150,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.2,Octane,"New York, NY",2014,Company - Private,Lending,Finance,Unknown,,1,,TX,Data Engineer,11,Medium Business,1,0,0,0,1,1,0,0,1,0,0
+0.0,CompuForce,"New York, NY",2025,Company - Private,Other Industries,Other Sector,Unknown,,1,,NY,Data Scientist,0,Unknown,0,1,0,0,0,1,1,0,1,1,1
+3.0,Infosys,"Bengaluru, India",1981,Company - Public,IT Services,Information Technology,$10+ billion ,54.0,71,62.5,CT,Data Analyst,44,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,34.0,92,63.0,MA,Data Analyst,174,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.6,Greenwich Biosciences,"Carlsbad, CA",2013,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,12,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.6,AXION Healthcare Solutions,"New York, NY",1980,Company - Private,Health Care Services & Hospitals,Health Care,$10 to $25 million ,47.0,85,66.0,NY,Data Analyst,45,Small Business,0,1,0,0,0,0,0,0,0,0,0
+3.5,Alignment Healthcare,"Orange, CA",2013,Company - Private,Health Care Services & Hospitals,Health Care,Unknown,65.0,124,94.5,CA,Data Engineer,12,Large Business,1,1,0,0,1,1,1,1,1,1,0
+0.0,WeRide.ai,Other,2025,Other Organization,Other Industries,Other Sector,Unknown,,1,,CA,Data Scientist,0,Unknown,1,0,0,0,0,0,0,0,1,1,0
+4.2,ExecOnline,"New York, NY",2012,Company - Private,Education Training Services,Education,Unknown,56.0,95,75.5,NY,Data Scientist,13,Medium Business,1,0,1,0,1,1,1,0,0,1,0
+3.3,FrankCrum Staffing,"Clearwater, FL",1981,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million ,,1,,FL,Data Analyst,44,Medium Business,0,1,0,0,1,0,1,0,0,0,0
+0.0,ODSC Hiring Partner,Other,2025,Other Organization,Other Industries,Other Sector,Unknown,,1,,NY,Data Scientist,0,Unknown,1,1,1,0,1,1,0,1,1,1,0
+4.0,Mteq,"Lorton, VA",1954,Company - Public,Aerospace & Defense,Aerospace & Defense,$100 to $500 million ,62.0,112,87.0,VA,Machine Learning Engineer,71,Large Business,1,0,0,0,0,0,0,0,0,1,1
+3.9,AstraZeneca,"Cambridge, United Kingdom",1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,107.0,173,140.0,MD,Data Scientist,112,Enterprise Business,1,1,0,0,0,0,0,0,0,1,0
+3.7,Brillient,"Reston, VA",2006,Company - Private,IT Services,Information Technology,$25 to $50 million ,64.0,108,86.0,MD,Data Scientist,19,Large Business,1,1,0,0,0,0,0,0,0,1,1
+4.4,Entefy,"Palo Alto, CA",2012,Company - Private,Internet,Information Technology,Unknown,89.0,144,116.5,CA,Data Scientist,13,Small Business,1,0,0,0,1,0,0,0,0,0,0
+0.0,Decode_M,"New York, NY",2025,Unknown,Other Industries,Other Sector,Unknown,,1,,NY,Data Scientist,0,Small Business,1,1,0,0,0,0,0,0,0,1,0
+3.5,Sunovion,"Marlborough, MA",2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion ,109.0,200,154.5,MA,Other,15,Enterprise Business,1,1,0,0,0,0,0,0,0,0,1
+0.0,Point72 Ventures,Other,2025,Other Organization,Other Industries,Other Sector,Unknown,,1,,CA,Data Scientist,0,Unknown,0,0,0,0,0,0,0,0,0,1,0
+3.7,Cboe Global Markets,"Chicago, IL",1973,Company - Public,Stock Exchanges,Finance,$500 million to $1 billion ,61.0,113,87.0,KS,Machine Learning Engineer,52,Large Business,1,1,0,0,1,0,1,0,0,1,0
+3.6,San Manuel Casino,"Highland, CA",1986,Company - Private,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million ,35.0,62,48.5,CA,Data Analyst,39,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+3.4,Trace3,"Irvine, CA",2002,Company - Private,IT Services,Information Technology,$1 to $2 billion ,55.0,105,80.0,TX,Data Engineer,23,Large Business,1,1,0,0,1,0,1,1,1,0,0
+4.0,Texas Health Huguley Hospital,"Arlington, TX",1977,Hospital,Health Care Services & Hospitals,Health Care,$50 to $100 million ,37.0,52,44.5,TX,Other,48,Enterprise Business,0,0,0,0,0,1,0,0,0,0,0
+2.4,Teasdale Latin Foods,"Flower Mound, TX",2025,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million ,39.0,66,52.5,IL,Other,0,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.7,Northrop Grumman,"Falls Church, VA",1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion ,135.0,211,173.0,CA,Data Scientist,86,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+3.5,Saama Technologies Inc,"Campbell, CA",1997,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,57.0,80,68.5,AZ,Data Engineer,28,Large Business,1,0,0,0,0,0,0,0,1,0,0
+4.4,Two Sigma,"New York, NY",2001,Company - Private,Investment Banking & Asset Management,Finance,Unknown,129.0,215,172.0,NY,Data Scientist,24,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.3,Liberty Mutual Insurance,"Boston, MA",1912,Company - Private,Insurance Carriers,Insurance,$10+ billion ,86.0,143,114.5,MA,Data Scientist,113,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+3.9,AstraZeneca,"Cambridge, United Kingdom",1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,63.0,127,95.0,MD,Other,112,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.2,MITRE,"Bedford, MA",1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion ,50.0,89,69.5,MA,Data Scientist,67,Enterprise Business,1,1,1,0,1,0,0,0,0,0,1
+3.2,Guidepoint,"New York, NY",2003,Company - Private,Research & Development,Business Services,Unknown,43.0,86,64.5,NY,Data Engineer,22,Large Business,1,1,0,0,1,1,0,1,0,0,0
+4.5,GSN Games,"Boston, MA",1999,Company - Private,Video Games,Media,Unknown,,1,,CA,Data Scientist,26,Large Business,1,1,0,0,1,1,0,0,1,1,0
+2.1,Cerus Corporation,"Concord, CA",2025,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million ,74.0,149,111.5,CA,Other,0,Large Business,0,1,0,0,0,0,0,0,0,0,0
+4.0,Strategic Financial Solutions,"New York, NY",2007,Company - Private,Consumer Product Rental,Consumer Services,Unknown,71.0,124,97.5,NY,Data Scientist,18,Large Business,1,1,0,0,1,0,0,0,0,1,0
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,113.0,196,154.5,MA,Data Engineer,244,Enterprise Business,0,1,0,0,1,1,1,0,1,1,0
+2.6,Software Engineering Institute,"Pittsburgh, PA",1984,College / University,Colleges & Universities,Education,Unknown,81.0,167,124.0,PA,Data Scientist,41,Large Business,0,0,0,0,0,0,0,0,0,1,0
+3.4,"Remedy BPCI Partners, LLC.","Norwalk, CT",2011,Company - Private,Health Care Services & Hospitals,Health Care,Unknown,69.0,121,95.0,NY,Data Scientist,14,Large Business,1,0,1,0,1,1,0,0,1,1,0
+4.4,Maven Wave Partners,"Chicago, IL",2008,Company - Private,Consulting,Business Services,$50 to $100 million ,97.0,160,128.5,IL,Data Scientist,17,Large Business,1,1,1,0,1,1,1,1,0,1,0
+3.2,The Climate Corporation,"San Francisco, CA",2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,Unknown,150.0,238,194.0,CA,Data Scientist,19,Large Business,0,1,0,0,0,1,0,0,0,1,0
+3.1,"Qualifacts Systems, Inc.","Nashville, TN",2002,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million ,,1,,TN,Data Analyst,23,Large Business,0,0,0,0,1,1,0,0,0,0,0
+4.1,Redstream Technology,"New York, NY",2007,Company - Private,IT Services,Information Technology,$5 to $10 million ,,1,,GA,Data Engineer,18,Small Business,0,0,0,0,0,0,0,0,0,0,0
+3.5,Crossix Solutions,"New York, NY",2005,Company - Public,Advertising & Marketing,Business Services,Unknown,77.0,132,104.5,NY,Data Scientist,20,Large Business,1,1,0,0,1,1,0,0,1,1,0
+3.7,Vail Health,"Vail, CO",1966,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million ,50.0,81,65.5,CO,Other,59,Large Business,0,0,0,0,0,0,0,0,0,0,0
+4.2,Clarity Insights,"Chicago, IL",2008,Company - Private,IT Services,Information Technology,Unknown,59.0,112,85.5,NC,Data Engineer,17,Large Business,1,1,0,0,1,0,1,0,0,1,0
+4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",2025,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown,35.0,65,50.0,UT,Data Analyst,0,Enterprise Business,0,1,0,0,1,1,0,0,0,0,0
+3.1,NCSOFT,"Seoul, South Korea",1997,Company - Public,Video Games,Media,$10+ billion ,79.0,147,113.0,CA,Data Engineer,28,Enterprise Business,1,1,0,0,1,1,0,0,1,0,0
+3.7,CALIBRE Systems,"Alexandria, VA",1989,Company - Private,IT Services,Information Technology,$100 to $500 million ,,1,,VA,Data Analyst,36,Large Business,0,1,1,0,0,0,0,0,0,0,0
+2.7,Sterling National Bank,"New York, NY",1966,Company - Public,Banks & Credit Unions,Finance,$10+ billion ,,1,,NY,Other,59,Enterprise Business,0,0,0,0,0,1,0,0,0,1,0
+3.9,GSK,"Brentford, United Kingdom",1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,62.0,119,90.5,MA,Other,195,Enterprise Business,0,0,0,0,0,1,0,0,0,0,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,,1,,MA,Data Scientist,29,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.3,Factual,"Los Angeles, CA",2008,Company - Private,Computer Hardware & Software,Information Technology,Unknown,119.0,187,153.0,CA,Data Scientist,17,Medium Business,1,1,0,0,0,0,0,0,1,1,0
+3.3,TriNet,"Dublin, CA",1988,Company - Public,Consulting,Business Services,$2 to $5 billion ,90.0,157,123.5,CA,Data Analyst,37,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+3.9,Signpost,"New York, NY",2010,Company - Private,Internet,Information Technology,$10 to $25 million ,32.0,62,47.0,NY,Data Analyst,15,Large Business,0,0,0,0,1,0,0,0,1,0,0
+3.5,Central California Alliance for Health,"Scotts Valley, CA",1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion ,42.0,86,64.0,CA,Data Analyst,29,Large Business,0,0,1,0,1,0,0,0,0,0,0
+4.0,Adobe,"San Jose, CA",1982,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion ,116.0,208,162.0,CA,Data Scientist,43,Enterprise Business,1,1,1,1,1,0,1,0,0,1,0
+3.9,AstraZeneca,"Cambridge, United Kingdom",1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,102.0,172,137.0,NY,Data Scientist,112,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+3.0,Pilot Flying J Travel Centers LLC,"Knoxville, TN",1958,Company - Private,Gas Stations,Retail,$10+ billion ,69.0,127,98.0,TN,Data Engineer,67,Enterprise Business,1,0,0,0,1,0,0,0,0,0,0
+2.3,UPM Pharmaceutical Inc,"Bristol, TN",2025,Contract,Other Industries,Other Sector,Unknown,,1,,TN,Data Scientist,0,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+3.7,Swiss Re,"Zurich, Switzerland",1863,Company - Public,Insurance Agencies & Brokerages,Insurance,$10+ billion ,86.0,144,115.0,NY,Data Scientist,162,Enterprise Business,1,1,0,0,1,0,0,0,0,1,1
+3.5,Sartorius,"Gottingen, Germany",1870,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion ,102.0,165,133.5,CO,Data Scientist,155,Enterprise Business,1,1,0,0,0,0,0,0,0,1,1
+4.0,Pinnacol Assurance,"Denver, CO",1915,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion ,74.0,124,99.0,CO,Data Engineer,110,Large Business,1,0,0,0,1,1,0,0,0,0,0
+3.3,Palermo's Pizza,"Milwaukee, WI",1964,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown,40.0,68,54.0,WI,Other,61,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.2,Equian LLC,"Indianapolis, IN",2004,Company - Private,Health Care Services & Hospitals,Health Care,Unknown,76.0,142,109.0,TN,Data Engineer,21,Enterprise Business,0,1,0,0,0,1,1,1,0,0,0
+3.4,MetroStar Systems,"Reston, VA",1999,Company - Private,IT Services,Information Technology,$25 to $50 million ,76.0,142,109.0,MD,Data Engineer,26,Large Business,0,0,0,0,0,1,0,0,0,0,0
+4.4,MathWorks,"Natick, MA",1984,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion ,108.0,171,139.5,MA,Data Scientist,41,Enterprise Business,1,0,1,1,1,0,0,0,0,0,1
+3.3,Liberty Mutual Insurance,"Boston, MA",1912,Company - Private,Insurance Carriers,Insurance,$10+ billion ,202.0,306,254.0,IL,Data Scientist,113,Enterprise Business,1,0,0,0,0,0,0,0,0,0,0
+3.2,Information Builders,"New York, NY",1975,Company - Private,Computer Hardware & Software,Information Technology,Unknown,91.0,159,125.0,NY,Machine Learning Engineer,50,Enterprise Business,1,1,0,0,1,1,0,1,0,1,0
+4.1,NJF Global Holdings,"London, United Kingdom",2003,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million ,,1,,NY,Data Engineer,22,Medium Business,1,0,0,0,1,0,0,0,0,0,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,80.0,133,106.5,MA,Data Scientist,29,Enterprise Business,1,0,1,0,1,0,0,0,0,1,1
+2.9,Audentes Therapeutics,"San Francisco, CA",2012,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,49.0,97,73.0,CA,Other,13,Large Business,0,0,0,0,0,0,0,0,0,0,0
+5.0,Alector,"South San Francisco, CA",2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,12,Medium Business,0,1,0,0,1,1,0,0,0,0,0
+2.7,Advanced BioScience Laboratories,"Rockville, MD",1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million ,49.0,113,81.0,MD,Other,64,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.6,Beebe Healthcare,"Lewes, DE",1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million ,44.0,71,57.5,DE,Other,90,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,65.0,134,99.5,NC,Data Scientist,150,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",2025,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown,,1,,UT,Data Engineer,0,Enterprise Business,0,1,1,1,1,0,0,0,0,1,0
+3.3,National Interstate,"Richfield, OH",1989,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion ,32.0,59,45.5,OH,Data Analyst,36,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,,1,,MA,Data Scientist,29,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.7,The Hanover Insurance Group,"Worcester, MA",1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion ,39.0,69,54.0,MA,Data Analyst,173,Enterprise Business,0,0,0,0,1,0,0,0,0,0,0
+4.5,Moser Consulting,"Indianapolis, IN",1996,Company - Private,Consulting,Business Services,$25 to $50 million ,87.0,158,122.5,IN,Data Engineer,29,Medium Business,1,0,0,0,1,1,1,1,1,1,0
+3.0,Greenway Health,"Tampa, FL",1977,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million ,27.0,48,37.5,FL,Data Analyst,48,Enterprise Business,0,1,0,0,1,0,0,0,0,0,0
+3.8,Fareportal,"New York, NY",2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion ,36.0,71,53.5,NY,Data Analyst,23,Enterprise Business,1,1,0,0,1,0,0,0,0,0,0
+3.9,TransUnion,"Chicago, IL",1968,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion ,107.0,173,140.0,IL,Data Scientist,57,Enterprise Business,1,1,0,0,1,0,0,0,0,1,0
+3.2,MITRE,"Bedford, MA",1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion ,56.0,99,77.5,VA,Data Scientist,67,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+2.9,Pharmavite,"West Hills, CA",1971,Company - Private,Consumer Products Manufacturing,Manufacturing,$1 to $2 billion ,,1,,CA,Other,54,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.3,Mcphail Associates,"Cambridge, MA",1976,Company - Private,Construction,"Construction, Repair & Maintenance",Unknown,52.0,58,55.0,MA,Other,49,Small Business,0,1,0,0,0,0,0,0,0,0,0
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,80.0,155,117.5,NC,Other,150,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+2.4,Crown Bioscience,"San Diego, CA",2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million ,43.0,98,70.5,CA,Other,19,Large Business,0,0,0,0,0,0,0,0,0,0,0
+2.9,Q2 Solutions,"Morrisville, NC",2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,44.0,96,70.0,NY,Other,10,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.8,HOVER,"San Francisco, CA",2011,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million ,45.0,78,61.5,CA,Data Analyst,14,Medium Business,0,1,1,0,1,0,0,0,0,0,0
+2.9,Q2 Solutions,"Morrisville, NC",2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,50.0,110,80.0,GA,Other,10,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.7,Oversight Systems,"Atlanta, GA",2003,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million ,60.0,99,79.5,GA,Data Scientist,22,Medium Business,1,1,0,0,1,0,0,0,0,1,0
+4.7,Confluent,"Mountain View, CA",2014,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million ,130.0,206,168.0,CA,Data Scientist,11,Large Business,1,1,1,0,1,0,0,0,0,1,1
+3.4,Arbella Insurance,"Quincy, MA",1988,Company - Private,Insurance Carriers,Insurance,$100 to $500 million ,61.0,119,90.0,MA,Data Engineer,37,Enterprise Business,0,1,0,0,1,0,1,0,1,0,0
+0.0,Kronos Bio,"San Mateo, CA",2025,Company - Private,Other Industries,Other Sector,Unknown,100.0,140,120.0,MA,Data Scientist,0,Unknown,0,1,0,0,0,0,0,0,0,0,0
+3.9,Life360,"San Francisco, CA",2008,Company - Public,Computer Hardware & Software,Information Technology,Unknown,99.0,178,138.5,CA,Data Analyst,17,Medium Business,1,0,1,0,1,0,0,0,0,0,0
+3.6,IQVIA,"Durham, NC",2017,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion ,86.0,137,111.5,PA,Data Scientist,8,Enterprise Business,0,0,0,0,0,0,0,0,0,1,0
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,37.0,100,68.5,MA,Data Scientist,174,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.9,GSK,"Brentford, United Kingdom",1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,58.0,111,84.5,MA,Other,195,Enterprise Business,0,0,0,0,0,1,0,0,0,0,0
+4.4,Eventbrite,"San Francisco, CA",2006,Company - Public,Internet,Information Technology,$100 to $500 million ,72.0,133,102.5,TN,Data Engineer,19,Enterprise Business,1,0,0,0,1,1,1,0,1,1,0
+2.6,Software Engineering Institute,"Pittsburgh, PA",1984,College / University,Colleges & Universities,Education,Unknown,56.0,91,73.5,PA,Other,41,Large Business,0,1,0,0,0,0,0,0,0,1,0
+4.8,IGNW,"Portland, OR",2015,Company - Private,IT Services,Information Technology,$25 to $50 million ,,1,,TX,Data Engineer,10,Large Business,1,0,0,0,1,0,0,0,0,0,0
+3.6,Riverside Research Institute,"Arlington, VA",1967,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million ,61.0,126,93.5,OH,Data Scientist,58,Large Business,1,0,0,0,0,0,0,0,0,1,0
+3.2,"Numeric, LLC","Chadds Ford, PA",2025,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million ,95.0,160,127.5,PA,Data Scientist,0,Small Business,0,1,0,0,0,0,0,0,0,1,0
+4.6,"SmartNews, Inc.","San Francisco, CA",2012,Company - Private,Internet,Information Technology,Unknown,,1,,CA,Data Scientist,13,Medium Business,1,0,0,0,0,0,0,0,0,1,0
+4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",2025,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown,53.0,91,72.0,UT,Data Analyst,0,Enterprise Business,0,0,1,0,1,0,0,0,0,0,0
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,101.0,158,129.5,MA,Other,174,Enterprise Business,1,1,1,0,1,1,1,0,1,0,0
+4.3,h2o.ai,"Mountain View, CA",2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,,1,,NY,Data Scientist,14,Large Business,0,1,0,0,0,1,0,1,0,1,0
+4.2,Octane,"New York, NY",2014,Company - Private,Lending,Finance,Unknown,,1,,NY,Data Engineer,11,Medium Business,1,0,0,0,1,1,0,0,1,0,0
+3.1,Icon Health and Fitness,"Logan, UT",1977,Company - Private,Consumer Products Manufacturing,Manufacturing,$500 million to $1 billion ,33.0,61,47.0,UT,Data Analyst,48,Enterprise Business,1,1,1,0,1,0,0,0,0,0,0
+3.8,Shipt,"Birmingham, AL",2014,Subsidiary or Business Segment,Consumer Product Rental,Consumer Services,Unknown,44.0,86,65.0,AL,Data Engineer,11,Large Business,1,1,0,0,1,1,0,0,1,0,0
+4.8,Health Union,"Philadelphia, PA",2009,Company - Private,Publishing,Media,Unknown,,1,,PA,Data Analyst,16,Medium Business,0,1,1,0,0,0,0,0,0,0,0
+3.8,Associated Banc-Corp,"Green Bay, WI",1870,Company - Public,Banks & Credit Unions,Finance,$1 to $2 billion ,43.0,77,60.0,WI,Data Analyst,155,Enterprise Business,0,1,0,0,0,1,0,0,0,0,0
+4.0,Pfizer,"New York, NY",1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,125.0,210,167.5,NY,Data Scientist,176,Enterprise Business,0,1,0,0,0,1,0,0,0,0,0
+3.8,Fareportal,"New York, NY",2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion ,44.0,86,65.0,NY,Data Analyst,23,Enterprise Business,0,1,0,0,1,0,0,0,0,0,0
+3.6,Shine Systems,"Charlottesville, VA",2008,Company - Private,Consulting,Business Services,Unknown,,1,,VA,Other,17,Medium Business,0,0,0,0,0,0,0,0,0,0,0
+4.0,Novetta,"Mc Lean, VA",2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million ,69.0,119,94.0,VA,Data Analyst,13,Large Business,1,0,0,0,1,0,0,0,0,0,0
+1.9,Moda Operandi,"New York, NY",2010,Company - Private,"Department, Clothing, & Shoe Stores",Retail,$100 to $500 million ,65.0,110,87.5,NY,Data Analyst,15,Large Business,1,1,0,0,1,0,0,0,0,0,0
+4.0,Novetta,"Mc Lean, VA",2012,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million ,67.0,127,97.0,VA,Data Engineer,13,Large Business,1,0,0,0,1,1,1,0,1,0,0
+4.3,Genesys,"Daly City, CA",1990,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion ,78.0,147,112.5,NC,Data Engineer,35,Enterprise Business,1,0,0,0,0,1,1,0,1,0,0
+3.5,PACT Pharma,"South San Francisco, CA",2016,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,9,Medium Business,0,0,0,0,0,0,0,0,0,0,0
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,66.0,117,91.5,MA,Other,174,Enterprise Business,0,1,0,0,1,1,1,0,1,0,0
+3.3,Liberty Mutual Insurance,"Boston, MA",1912,Company - Private,Insurance Carriers,Insurance,$10+ billion ,37.0,66,51.5,IN,Other,113,Enterprise Business,1,1,0,0,1,0,0,0,0,0,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,86.0,143,114.5,MA,Data Scientist,29,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.3,USEReady,"New York, NY",2011,Company - Private,Consulting,Business Services,$10 to $25 million ,84.0,146,115.0,NY,Data Scientist,14,Large Business,1,0,1,0,1,1,1,1,1,1,0
+3.2,"Numeric, LLC","Chadds Ford, PA",2025,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million ,50.0,98,74.0,PA,Other,0,Small Business,1,0,0,0,1,1,0,1,0,0,0
+4.7,QK,"Visalia, CA",1972,Company - Private,Architectural & Engineering Services,Business Services,$10 to $25 million ,38.0,64,51.0,CA,Other,53,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+3.4,Tivity Health,"Franklin, TN",1981,Company - Public,Health Care Services & Hospitals,Health Care,Unknown,90.0,110,100.0,AZ,Data Engineer,44,Large Business,0,0,0,0,1,0,1,0,0,0,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,92.0,150,121.0,MA,Data Scientist,29,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.5,Demandbase,"San Francisco, CA",2006,Company - Private,Computer Hardware & Software,Information Technology,$100 to $500 million ,90.0,153,121.5,CA,Data Analyst,19,Large Business,0,0,1,1,1,0,0,0,0,1,0
+4.7,Job Juncture,"Houston, TX",1992,Company - Private,Staffing & Outsourcing,Business Services,Less than $1 million ,,1,,MA,Data Scientist,33,Enterprise Business,1,0,0,0,1,0,0,0,0,1,0
+3.1,Santander,"Madrid, Spain",1856,Company - Private,Banks & Credit Unions,Finance,$10+ billion ,43.0,82,62.5,MA,Data Scientist,169,Enterprise Business,1,1,0,0,1,0,0,0,0,0,1
+0.0,Monte Rosa Therapeutics,Other,2025,Other Organization,Other Industries,Other Sector,Unknown,100.0,135,117.5,MA,Other,0,Unknown,0,1,0,0,0,0,0,0,0,0,0
+3.9,Luminar Technologies,"Orlando, FL",2012,Company - Private,Computer Hardware & Software,Information Technology,Unknown,93.0,151,122.0,FL,Data Scientist,13,Large Business,1,0,0,0,0,1,0,0,0,0,1
+4.4,BRMi,"Washington, DC",2004,Company - Private,IT Services,Information Technology,Unknown,61.0,109,85.0,VA,Data Engineer,21,Medium Business,1,0,0,0,0,1,1,1,1,0,0
+3.4,IntraEdge,"Chandler, AZ",2002,Company - Private,IT Services,Information Technology,$50 to $100 million ,42.0,79,60.5,AZ,Data Engineer,23,Large Business,1,0,0,0,1,1,0,0,1,0,0
+3.9,Zest AI,"Burbank, CA",2009,Company - Private,Financial Analytics & Research,Finance,$50 to $100 million ,139.0,221,180.0,CA,Data Scientist,16,Medium Business,1,1,0,0,1,0,0,0,0,1,0
+4.7,Veterans United Home Loans,"Columbia, MO",2002,Company - Private,Lending,Finance,Unknown,40.0,101,70.5,MO,Other,23,Enterprise Business,0,1,1,0,1,0,1,0,1,0,0
+3.3,Peraton,"Herndon, VA",2017,Company - Private,Aerospace & Defense,Aerospace & Defense,$1 to $2 billion ,84.0,153,118.5,VA,Data Engineer,8,Enterprise Business,1,0,0,0,1,0,1,0,1,0,0
+3.9,"Emtec, Inc.","Jacksonville, FL",1995,Company - Private,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million ,52.0,81,66.5,IL,Other,30,Large Business,1,0,1,1,1,0,0,0,0,0,0
+3.4,PA Consulting,"London, United Kingdom",1943,Company - Private,Consulting,Business Services,$100 to $500 million ,81.0,134,107.5,MA,Data Scientist,82,Enterprise Business,0,1,1,0,1,0,1,0,1,1,0
+4.7,Praetorian,"Austin, TX",2010,Company - Private,Security Services,Business Services,$10 to $25 million ,97.0,180,138.5,TX,Data Engineer,15,Medium Business,1,0,0,0,1,0,0,0,1,1,0
+2.7,Advanced BioScience Laboratories,"Rockville, MD",1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million ,49.0,113,81.0,MD,Other,64,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.8,COUNTRY Financial,"Bloomington, IL",1925,Company - Private,Insurance Carriers,Insurance,$2 to $5 billion ,44.0,73,58.5,IL,Data Engineer,100,Enterprise Business,1,1,0,0,1,0,1,0,1,1,0
+3.4,Echo Global Logistics,"Chicago, IL",2005,Company - Public,Transportation Management,Transportation & Logistics,$2 to $5 billion ,75.0,140,107.5,IL,Data Engineer,20,Enterprise Business,0,0,0,0,1,0,0,0,0,0,0
+3.8,Agios Pharmaceuticals,"Cambridge, MA",2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million ,84.0,157,120.5,MA,Other,17,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.9,Tapjoy,"San Francisco, CA",2007,Company - Private,Internet,Information Technology,$10 to $25 million ,40.0,87,63.5,CA,Data Scientist,18,Large Business,1,0,0,0,1,0,0,0,1,1,0
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,68.0,139,103.5,KY,Other,150,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.1,Mentor Graphics,"Wilsonville, OR",1981,Company - Public,Computer Hardware & Software,Information Technology,$1 to $2 billion ,72.0,142,107.0,CA,Data Scientist,44,Enterprise Business,1,1,0,0,0,0,0,0,0,1,1
+3.7,Maxar Technologies,"Westminster, CO",2025,Company - Public,Aerospace & Defense,Aerospace & Defense,$2 to $5 billion ,74.0,137,105.5,VA,Data Engineer,0,Enterprise Business,1,0,0,0,1,0,1,0,1,1,0
+2.8,ICW Group,"San Diego, CA",1972,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion ,57.0,109,83.0,CA,Data Engineer,53,Large Business,0,0,1,1,1,0,0,0,0,0,0
+3.4,Orange Coast Memorial Medical Center,"Fountain Valley, CA",2005,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$2 to $5 billion ,,1,,CA,Other,20,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.0,Glassdoor,"Mill Valley, CA",2007,Company - Private,Internet,Information Technology,Unknown,121.0,203,162.0,CA,Data Engineer,18,Enterprise Business,1,1,0,0,0,1,1,0,1,1,0
+4.0,"Meridian Technologies, Inc","Farmington Hills, MI",2025,Unknown,Other Industries,Other Sector,Unknown,,1,,WA,Data Engineer,0,Unknown,1,1,0,0,1,1,1,0,1,1,0
+3.5,Esri,"Redlands, CA",1969,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion ,52.0,85,68.5,CA,Data Scientist,56,Enterprise Business,1,1,0,0,0,0,0,0,1,1,0
+4.5,Blue Owl,"San Francisco, CA",2016,Company - Private,Internet,Information Technology,Unknown,,1,,CA,Data Scientist,9,Medium Business,1,0,0,0,0,0,0,0,0,1,0
+4.4,"Volume Integration, LLC","Reston, VA",2013,Company - Private,Aerospace & Defense,Aerospace & Defense,$10 to $25 million ,,1,,VA,Data Scientist,12,Medium Business,1,0,0,0,1,1,0,0,0,1,0
+3.4,Assurant,"New York, NY",1978,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion ,81.0,140,110.5,OH,Data Scientist,47,Enterprise Business,0,1,0,0,1,0,0,0,0,1,0
+3.7,F&G,"Des Moines, IA",2025,Subsidiary or Business Segment,Insurance Carriers,Insurance,$100 to $500 million ,83.0,148,115.5,IA,Data Engineer,0,Large Business,1,1,1,0,1,0,0,0,0,0,0
+3.0,Exelixis,"Alameda, CA",1994,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,59.0,116,87.5,CA,Data Scientist,31,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.8,PNNL,"Richland, WA",1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion ,60.0,101,80.5,WA,Data Scientist,60,Enterprise Business,0,0,0,0,0,0,0,0,0,1,0
+4.7,"Collinwood Technology Partners, LLC","Schaumburg, IL",2014,Company - Private,IT Services,Information Technology,$1 to $5 million ,,1,,IL,Data Engineer,11,Medium Business,0,0,0,0,1,1,0,1,0,0,0
+3.7,FHLBank Pittsburgh,"Pittsburgh, PA",1932,Company - Private,Banks & Credit Unions,Finance,$1 to $2 billion ,,1,,PA,Data Analyst,93,Large Business,0,0,1,0,0,1,0,0,0,0,0
+4.4,"Homology Medicines, Inc.","Bedford, MA",2025,Company - Public,Other Industries,Other Sector,Unknown,,1,,MA,Other,0,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+4.6,GreatAmerica Financial Services,"Cedar Rapids, IA",1992,Company - Private,Lending,Finance,$100 to $500 million ,31.0,55,43.0,IA,Data Analyst,33,Large Business,0,1,1,0,1,0,0,0,0,0,0
+3.7,Sanofi,"Paris, France",1973,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,,1,,MA,Other,52,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,,1,,MA,Data Scientist,29,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.4,Acceleron Pharma,"Cambridge, MA",2003,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,102.0,178,140.0,MA,Other,22,Large Business,0,1,0,0,0,0,0,0,0,0,0
+4.0,Pfizer,"New York, NY",1849,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,136.0,208,172.0,MA,Other,176,Enterprise Business,0,0,0,0,0,1,0,0,0,0,0
+0.0,Kronos Bio,"San Mateo, CA",2025,Company - Private,Other Industries,Other Sector,Unknown,110.0,130,120.0,MA,Other,0,Unknown,0,0,0,0,0,0,0,0,0,0,0
+3.0,AmeriHealth Caritas,"Philadelphia, PA",1983,Company - Private,Insurance Carriers,Insurance,$5 to $10 billion ,48.0,85,66.5,PA,Data Analyst,42,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+3.0,Exelixis,"Alameda, CA",1994,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,71.0,129,100.0,CA,Other,31,Large Business,0,1,0,0,0,0,0,0,0,0,0
+4.7,Strategic Employment Partners,"Los Angeles, CA",2006,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million ,66.0,123,94.5,CA,Data Engineer,19,Medium Business,1,0,0,0,0,1,0,0,0,0,0
+4.2,Grand Rounds,"San Francisco, CA",2011,Company - Private,Health Care Services & Hospitals,Health Care,Unknown,171.0,272,221.5,CA,Data Scientist,14,Large Business,1,1,0,0,1,0,0,1,0,1,0
+3.8,PNNL,"Richland, WA",1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion ,92.0,146,119.0,WA,Data Scientist,60,Enterprise Business,0,0,0,0,0,0,0,0,0,1,0
+3.5,"SPINS, LLC","Chicago, IL",1995,Company - Private,Consulting,Business Services,$50 to $100 million ,65.0,126,95.5,IL,Data Engineer,30,Large Business,1,0,0,0,1,0,0,0,0,0,0
+3.3,Liberty Mutual Insurance,"Boston, MA",1912,Company - Private,Insurance Carriers,Insurance,$10+ billion ,150.0,239,194.5,IL,Data Scientist,113,Enterprise Business,1,0,0,0,0,0,0,0,0,0,0
+3.2,Catholic Health Initiatives,"Englewood, CO",1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$10+ billion ,44.0,60,52.0,NE,Other,29,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+2.7,FLEETCOR,"Peachtree Corners, GA",2000,Company - Public,Financial Transaction Processing,Finance,$2 to $5 billion ,21.0,35,28.0,TN,Data Analyst,25,Enterprise Business,0,1,1,0,0,0,0,0,0,0,0
+3.3,DTCC,"New York, NY",1973,Company - Private,Brokerage Services,Finance,$1 to $2 billion ,118.0,228,173.0,NJ,Other,52,Enterprise Business,1,1,0,0,1,0,0,0,0,0,1
+3.7,Applied Research Laboratories,"Austin, TX",2025,College / University,Colleges & Universities,Education,Unknown,82.0,129,105.5,TX,Data Scientist,0,Large Business,1,0,0,0,0,1,0,0,0,1,1
+3.9,Southwest Research Institute,"San Antonio, TX",1947,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion ,52.0,91,71.5,TX,Other,78,Enterprise Business,1,1,0,0,1,1,0,1,0,0,0
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,47.0,101,74.0,NC,Other,150,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+2.6,Software Engineering Institute,"Pittsburgh, PA",1984,College / University,Colleges & Universities,Education,Unknown,,1,,PA,Other,41,Large Business,0,0,0,0,0,0,0,0,0,1,0
+4.1,Apellis Pharmaceuticals,"Waltham, MA",2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,MA,Other,17,Large Business,0,0,0,0,0,1,0,0,0,0,0
+3.7,Raytheon,"Waltham, MA",1922,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion ,49.0,76,62.5,AL,Data Analyst,103,Enterprise Business,0,1,0,0,0,0,0,0,0,0,1
+4.3,RTI International,"Research Triangle Park, NC",1958,Nonprofit Organization,Research & Development,Business Services,$500 million to $1 billion ,43.0,88,65.5,NC,Other,67,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+4.9,Avlino,"Holmdel, NJ",2013,Company - Private,Enterprise Software & Network Solutions,Information Technology,Less than $1 million ,,1,,NJ,Data Scientist,12,Small Business,1,0,0,0,0,0,1,0,1,1,0
+3.8,DICK'S Sporting Goods - Corporate,"Coraopolis, PA",1948,Company - Public,Sporting Goods Stores,Retail,$5 to $10 billion ,61.0,109,85.0,PA,Data Scientist,77,Enterprise Business,1,0,0,0,1,0,0,0,0,1,0
+0.0,OneThree Biotech,"New York, NY",2025,Unknown,Other Industries,Other Sector,Unknown,,1,,NY,Data Engineer,0,Small Business,1,0,0,0,0,1,1,0,1,1,0
+3.9,AstraZeneca,"Cambridge, United Kingdom",1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,113.0,182,147.5,MD,Data Scientist,112,Enterprise Business,1,1,0,0,0,0,0,0,0,1,0
+3.2,Macy's,"New York, NY",1858,Company - Public,"Department, Clothing, & Shoe Stores",Retail,$10+ billion ,,1,,GA,Other,167,Enterprise Business,1,1,1,1,1,0,1,0,1,0,0
+4.4,SafeGraph,"San Francisco, CA",2016,Company - Private,Internet,Information Technology,$10 to $25 million ,,1,,NY,Other,9,Small Business,0,1,0,0,1,0,0,0,0,1,0
+3.6,TRANZACT,"Fort Lee, NJ",1989,Company - Private,Advertising & Marketing,Business Services,Unknown,124.0,199,161.5,NJ,Data Scientist,36,Enterprise Business,1,1,1,1,1,1,0,0,0,0,0
+3.7,Carilion Clinic,"Roanoke, VA",1899,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$1 to $2 billion ,58.0,104,81.0,VA,Data Engineer,126,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+2.1,United BioSource,"Blue Bell, PA",2003,Other Organization,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$100 to $500 million ,52.0,93,72.5,PA,Data Analyst,22,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+5.0,Senti Biosciences,"South San Francisco, CA",2016,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,9,Medium Business,0,0,0,0,0,0,0,0,0,0,0
+3.9,Figure Eight,"San Francisco, CA",2008,Company - Public,Computer Hardware & Software,Information Technology,$10 to $25 million ,97.0,181,139.0,CA,Data Engineer,17,Medium Business,1,1,0,0,0,1,0,0,0,1,0
+3.9,Tapjoy,"San Francisco, CA",2007,Company - Private,Internet,Information Technology,$10 to $25 million ,100.0,173,136.5,CA,Data Engineer,18,Large Business,0,0,0,0,1,0,0,0,0,1,0
+3.2,DoubleVerify,"New York, NY",2008,Company - Private,Internet,Information Technology,Unknown,58.0,108,83.0,NY,Data Analyst,17,Large Business,1,1,0,0,1,0,0,0,1,0,0
+4.6,Mitsubishi Electric Research Labs,"Cambridge, MA",1991,Subsidiary or Business Segment,Research & Development,Business Services,$5 to $10 million ,81.0,161,121.0,MA,Data Scientist,34,Medium Business,0,1,0,0,0,1,0,0,0,1,0
+3.8,Fareportal,"New York, NY",2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion ,53.0,96,74.5,NY,Data Scientist,23,Enterprise Business,1,0,0,0,0,0,0,0,1,1,0
+2.2,"Rodan and Fields, LLC","San Francisco, CA",2002,Company - Private,Beauty & Personal Accessories Stores,Retail,Unknown,61.0,110,85.5,CA,Data Analyst,23,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,65.0,96,80.5,NC,Other,150,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.8,Oportun. Inc,"San Carlos, CA",2005,Company - Public,Lending,Finance,Unknown,,1,,MD,Data Scientist,20,Enterprise Business,1,1,0,0,1,1,0,0,1,1,0
+4.1,Apellis Pharmaceuticals,"Waltham, MA",2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,MA,Other,17,Large Business,0,1,0,0,0,0,0,0,0,0,0
+4.6,Mitsubishi Electric Research Labs,"Cambridge, MA",1991,Subsidiary or Business Segment,Research & Development,Business Services,$5 to $10 million ,115.0,220,167.5,MA,Data Scientist,34,Medium Business,0,0,0,0,0,0,0,0,0,0,0
+2.6,Software Engineering Institute,"Pittsburgh, PA",1984,College / University,Colleges & Universities,Education,Unknown,71.0,144,107.5,PA,Data Scientist,41,Large Business,1,0,0,0,1,0,0,0,0,1,0
+3.4,DESC,"Seattle, WA",1979,Nonprofit Organization,Social Assistance,Non-Profit,$25 to $50 million ,32.0,57,44.5,WA,Data Analyst,46,Large Business,0,1,0,0,1,1,0,0,0,0,0
+3.3,Johns Hopkins Health Care,"Baltimore, MD",1889,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion ,79.0,136,107.5,MD,Data Analyst,136,Enterprise Business,0,0,0,0,1,0,0,0,0,0,0
+0.0,Kronos Bio,"San Mateo, CA",2025,Company - Private,Other Industries,Other Sector,Unknown,120.0,145,132.5,MA,Data Scientist,0,Unknown,0,0,0,0,0,0,0,0,0,0,0
+3.7,Community Behavioral Health,"Phila, PA",1994,Company - Private,Health Care Services & Hospitals,Health Care,$500 million to $1 billion ,50.0,89,69.5,PA,Data Analyst,31,Large Business,0,1,1,1,1,0,0,0,0,0,0
+3.5,Western Digital,"San Jose, CA",1970,Company - Public,Computer Hardware & Software,Information Technology,$10+ billion ,68.0,129,98.5,CA,Data Engineer,55,Enterprise Business,1,0,0,0,1,1,1,0,1,0,0
+2.7,Advanced BioScience Laboratories,"Rockville, MD",1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million ,48.0,113,80.5,MD,Other,64,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.8,FORMA THERAPEUTICS,"Watertown, MA",2008,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10 to $25 million ,56.0,98,77.0,MA,Other,17,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+3.7,Raytheon,"Waltham, MA",1922,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion ,74.0,124,99.0,MD,Other,103,Enterprise Business,1,0,0,0,1,0,0,0,0,1,0
+3.8,Agios Pharmaceuticals,"Cambridge, MA",2008,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million ,68.0,125,96.5,MA,Other,17,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.3,Liberty Mutual Insurance,"Boston, MA",1912,Company - Private,Insurance Carriers,Insurance,$10+ billion ,39.0,67,53.0,MA,Data Scientist,113,Enterprise Business,0,0,0,0,0,0,0,0,0,1,0
+2.7,Bridg,"Los Angeles, CA",2011,Company - Private,Enterprise Software & Network Solutions,Information Technology,Unknown,71.0,135,103.0,CA,Data Engineer,14,Small Business,0,0,0,0,0,1,1,0,1,1,0
+3.8,Bill.com,"Palo Alto, CA",2006,Company - Public,Financial Transaction Processing,Finance,$50 to $100 million ,107.0,172,139.5,CA,Data Scientist,19,Large Business,0,0,0,0,1,0,0,0,0,1,0
+3.8,Pacific Northwest National Laboratory,"Richland, WA",1965,Government,Energy,"Oil, Gas, Energy & Utilities",$500 million to $1 billion ,49.0,85,67.0,WA,Data Scientist,60,Enterprise Business,0,0,0,0,0,0,0,0,0,1,0
+3.0,Infosys,"Bengaluru, India",1981,Company - Public,IT Services,Information Technology,$10+ billion ,54.0,71,62.5,CT,Data Analyst,44,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.9,AstraZeneca,"Cambridge, United Kingdom",1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,61.0,123,92.0,MD,Other,112,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.6,AXION Healthcare Solutions,"New York, NY",1980,Company - Private,Health Care Services & Hospitals,Health Care,$10 to $25 million ,47.0,85,66.0,NY,Data Analyst,45,Small Business,0,1,0,0,0,0,0,0,0,0,0
+0.0,WeRide.ai,Other,2025,Other Organization,Other Industries,Other Sector,Unknown,,1,,CA,Data Scientist,0,Unknown,1,0,0,0,0,0,0,0,1,1,0
+4.6,Greenwich Biosciences,"Carlsbad, CA",2013,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,12,Large Business,0,1,0,0,0,0,0,0,0,0,0
+3.3,FrankCrum Staffing,"Clearwater, FL",1981,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million ,,1,,FL,Data Analyst,44,Medium Business,0,1,0,0,1,0,1,0,0,0,0
+3.5,Alignment Healthcare,"Orange, CA",2013,Company - Private,Health Care Services & Hospitals,Health Care,Unknown,65.0,124,94.5,CA,Data Engineer,12,Large Business,1,1,0,0,1,1,1,1,1,1,0
+3.6,TRANZACT,"Fort Lee, NJ",1989,Company - Private,Advertising & Marketing,Business Services,Unknown,87.0,141,114.0,NJ,Data Scientist,36,Enterprise Business,1,1,1,1,1,1,1,0,0,1,0
+4.2,ExecOnline,"New York, NY",2012,Company - Private,Education Training Services,Education,Unknown,56.0,95,75.5,NY,Data Scientist,13,Medium Business,1,0,1,0,1,1,1,0,0,1,0
+3.5,Charter Spectrum,"North Salt Lake, UT",2025,School / School District,KOther Industries2 Education,Education,$5 to $10 million ,71.0,121,96.0,MO,Data Scientist,0,Small Business,0,1,0,0,1,0,1,0,0,0,0
+4.0,Mteq,"Lorton, VA",1954,Company - Public,Aerospace & Defense,Aerospace & Defense,$100 to $500 million ,62.0,112,87.0,VA,Machine Learning Engineer,71,Large Business,1,0,0,0,0,0,0,0,0,1,1
+3.7,Brillient,"Reston, VA",2006,Company - Private,IT Services,Information Technology,$25 to $50 million ,64.0,108,86.0,MD,Data Scientist,19,Large Business,1,1,0,0,0,0,0,0,0,1,1
+0.0,ODSC Hiring Partner,Other,2025,Other Organization,Other Industries,Other Sector,Unknown,,1,,NY,Data Scientist,0,Unknown,1,1,1,0,1,1,0,1,1,1,0
+4.0,Two95 International Inc.,"Cherry Hill, NJ",2025,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million ,,1,,IL,Data Scientist,0,Small Business,1,0,0,0,1,0,0,0,0,0,0
+0.0,Decode_M,"New York, NY",2025,Unknown,Other Industries,Other Sector,Unknown,,1,,NY,Data Scientist,0,Small Business,1,1,0,0,0,0,0,0,0,1,0
+4.4,Entefy,"Palo Alto, CA",2012,Company - Private,Internet,Information Technology,Unknown,89.0,144,116.5,CA,Data Scientist,13,Small Business,1,0,0,0,1,0,0,0,0,0,0
+4.4,Vbeyond Corporation,"Hillsborough, NJ",2006,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million ,,1,,WA,Data Scientist,19,Large Business,1,0,0,0,1,0,0,1,1,1,0
+0.0,Point72 Ventures,Other,2025,Other Organization,Other Industries,Other Sector,Unknown,,1,,CA,Data Scientist,0,Unknown,0,0,0,0,0,0,0,0,0,1,0
+3.5,Sunovion,"Marlborough, MA",2010,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$1 to $2 billion ,109.0,200,154.5,MA,Other,15,Enterprise Business,1,1,0,0,0,0,0,0,0,0,1
+3.9,Cuboid IT Solutions,"San Jose, CA",2025,Company - Private,IT Services,Information Technology,$25 to $50 million ,,1,,AZ,Data Scientist,0,Large Business,1,0,1,0,1,1,0,1,0,1,0
+0.0,Adyen N.V.,Other,2025,Other Organization,Other Industries,Other Sector,Unknown,,1,,NY,Data Scientist,0,Unknown,1,0,1,0,1,0,1,0,1,1,0
+3.6,San Manuel Casino,"Highland, CA",1986,Company - Private,Gambling,"Arts, Entertainment & Recreation",$100 to $500 million ,35.0,62,48.5,CA,Data Analyst,39,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+3.7,Cboe Global Markets,"Chicago, IL",1973,Company - Public,Stock Exchanges,Finance,$500 million to $1 billion ,61.0,113,87.0,KS,Machine Learning Engineer,52,Large Business,1,1,0,0,1,0,1,0,0,1,0
+3.4,Trace3,"Irvine, CA",2002,Company - Private,IT Services,Information Technology,$1 to $2 billion ,55.0,105,80.0,TX,Data Engineer,23,Large Business,1,1,0,0,1,0,1,1,1,0,0
+4.0,Texas Health Huguley Hospital,"Arlington, TX",1977,Hospital,Health Care Services & Hospitals,Health Care,$50 to $100 million ,37.0,52,44.5,TX,Other,48,Enterprise Business,0,0,0,0,0,1,0,0,0,0,0
+3.7,Northrop Grumman,"Falls Church, VA",1939,Company - Public,Aerospace & Defense,Aerospace & Defense,$10+ billion ,135.0,211,173.0,CA,Data Scientist,86,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+2.4,Teasdale Latin Foods,"Flower Mound, TX",2025,Company - Private,Food & Beverage Manufacturing,Manufacturing,$100 to $500 million ,39.0,66,52.5,IL,Other,0,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.5,Saama Technologies Inc,"Campbell, CA",1997,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,57.0,80,68.5,AZ,Data Engineer,28,Large Business,1,0,0,0,0,0,0,0,1,0,0
+3.9,AstraZeneca,"Cambridge, United Kingdom",1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,63.0,127,95.0,MD,Other,112,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.2,MITRE,"Bedford, MA",1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion ,50.0,89,69.5,MA,Data Scientist,67,Enterprise Business,1,1,1,0,1,0,0,0,0,0,1
+4.4,The David J. Joseph Company,"Cincinnati, OH",1885,Subsidiary or Business Segment,Metals Brokers,Mining & Metals,Unknown,82.0,132,107.0,OH,Data Scientist,140,Large Business,1,0,1,0,1,1,0,0,0,1,0
+3.9,The Buffalo Group,"Reston, VA",2010,Company - Private,IT Services,Information Technology,$100 to $500 million ,85.0,139,112.0,VA,Data Scientist,15,Large Business,1,0,0,0,1,0,1,0,1,1,0
+3.5,Technosoft Corporation,"Southfield, MI",1996,Company - Private,IT Services,Information Technology,$100 to $500 million ,,1,,MI,Data Scientist,29,Enterprise Business,0,0,0,0,0,0,0,0,0,1,0
+3.4,CompQsoft,"Houston, TX",1997,Company - Private,Consulting,Business Services,$10 to $25 million ,72.0,121,96.5,DC,Data Scientist,28,Medium Business,1,0,0,0,0,0,0,0,0,1,0
+2.1,Cerus Corporation,"Concord, CA",2025,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million ,74.0,149,111.5,CA,Other,0,Large Business,0,1,0,0,0,0,0,0,0,0,0
+0.0,SentiLink,Other,2025,Other Organization,Other Industries,Other Sector,Unknown,,1,,CA,Data Scientist,0,Unknown,0,0,0,0,1,1,0,0,0,1,0
+3.7,Takeda Pharmaceuticals,"OSAKA, Japan",1781,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,113.0,196,154.5,MA,Data Engineer,244,Enterprise Business,0,1,0,0,1,1,1,0,1,1,0
+3.4,"Remedy BPCI Partners, LLC.","Norwalk, CT",2011,Company - Private,Health Care Services & Hospitals,Health Care,Unknown,69.0,121,95.0,NY,Data Scientist,14,Large Business,1,0,1,0,1,1,0,0,1,1,0
+4.0,Strategic Financial Solutions,"New York, NY",2007,Company - Private,Consumer Product Rental,Consumer Services,Unknown,71.0,124,97.5,NY,Data Scientist,18,Large Business,1,1,0,0,1,0,0,0,0,1,0
+4.4,Maven Wave Partners,"Chicago, IL",2008,Company - Private,Consulting,Business Services,$50 to $100 million ,97.0,160,128.5,IL,Data Scientist,17,Large Business,1,1,1,0,1,1,1,1,0,1,0
+2.6,Software Engineering Institute,"Pittsburgh, PA",1984,College / University,Colleges & Universities,Education,Unknown,81.0,167,124.0,PA,Data Scientist,41,Large Business,0,0,0,0,0,0,0,0,0,1,0
+3.2,The Climate Corporation,"San Francisco, CA",2006,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,Unknown,150.0,238,194.0,CA,Data Scientist,19,Large Business,0,1,0,0,0,1,0,0,0,1,0
+3.8,GA Telesis,"Fort Lauderdale, FL",2002,Company - Private,Aerospace & Defense,Aerospace & Defense,$500 million to $1 billion ,,1,,FL,Data Analyst,23,Large Business,0,1,0,0,1,0,0,0,0,0,0
+3.1,"Qualifacts Systems, Inc.","Nashville, TN",2002,Company - Private,Enterprise Software & Network Solutions,Information Technology,$25 to $50 million ,,1,,TN,Data Analyst,23,Large Business,0,0,0,0,1,1,0,0,0,0,0
+4.1,Redstream Technology,"New York, NY",2007,Company - Private,IT Services,Information Technology,$5 to $10 million ,,1,,GA,Data Engineer,18,Small Business,0,0,0,0,0,0,0,0,0,0,0
+3.7,Vail Health,"Vail, CO",1966,Hospital,Health Care Services & Hospitals,Health Care,$100 to $500 million ,50.0,81,65.5,CO,Other,59,Large Business,0,0,0,0,0,0,0,0,0,0,0
+4.7,Strategic Employment Partners,"Los Angeles, CA",2006,Company - Private,Staffing & Outsourcing,Business Services,$1 to $5 million ,,1,,CA,Data Scientist,19,Medium Business,1,0,0,0,1,0,0,0,0,1,0
+4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",2025,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown,35.0,65,50.0,UT,Data Analyst,0,Enterprise Business,0,1,0,0,1,1,0,0,0,0,0
+3.5,Crossix Solutions,"New York, NY",2005,Company - Public,Advertising & Marketing,Business Services,Unknown,77.0,132,104.5,NY,Data Scientist,20,Large Business,1,1,0,0,1,1,0,0,1,1,0
+4.3,Solugenix Corporation,"Brea, CA",1969,Company - Private,IT Services,Information Technology,$50 to $100 million ,51.0,88,69.5,AZ,Data Scientist,56,Large Business,1,1,0,0,1,0,0,0,0,1,0
+2.6,West Coast University,"Irvine, CA",1997,Company - Private,Colleges & Universities,Education,Unknown,101.0,141,121.0,CA,Data Scientist,28,Enterprise Business,1,0,1,1,1,0,0,0,0,1,0
+4.2,Clarity Insights,"Chicago, IL",2008,Company - Private,IT Services,Information Technology,Unknown,59.0,112,85.5,NC,Data Engineer,17,Large Business,1,1,0,0,1,0,1,0,0,1,0
+3.7,CALIBRE Systems,"Alexandria, VA",1989,Company - Private,IT Services,Information Technology,$100 to $500 million ,,1,,VA,Data Analyst,36,Large Business,0,1,1,0,0,0,0,0,0,0,0
+3.1,NCSOFT,"Seoul, South Korea",1997,Company - Public,Video Games,Media,$10+ billion ,79.0,147,113.0,CA,Data Engineer,28,Enterprise Business,1,1,0,0,1,1,0,0,1,0,0
+3.8,SoftBank Robotics,"Paris, France",2005,Subsidiary or Business Segment,Consumer Products Manufacturing,Manufacturing,$25 to $50 million ,79.0,127,103.0,CA,Data Scientist,20,Large Business,1,0,1,0,1,1,0,0,0,0,0
+3.3,Mathematica Policy Research,"Princeton, NJ",1986,Company - Private,Consulting,Business Services,$100 to $500 million ,,1,,DC,Data Scientist,39,Enterprise Business,1,1,0,0,0,1,0,0,0,1,0
+3.9,GSK,"Brentford, United Kingdom",1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,62.0,119,90.5,MA,Other,195,Enterprise Business,0,0,0,0,0,1,0,0,0,0,0
+4.3,Factual,"Los Angeles, CA",2008,Company - Private,Computer Hardware & Software,Information Technology,Unknown,119.0,187,153.0,CA,Data Scientist,17,Medium Business,1,1,0,0,0,0,0,0,1,1,0
+2.7,Sterling National Bank,"New York, NY",1966,Company - Public,Banks & Credit Unions,Finance,$10+ billion ,,1,,NY,Other,59,Enterprise Business,0,0,0,0,0,1,0,0,0,1,0
+4.5,Eliassen Group,"Reading, MA",1989,Company - Private,Staffing & Outsourcing,Business Services,$100 to $500 million ,,1,,GA,Data Scientist,36,Enterprise Business,1,0,1,0,1,0,0,0,0,1,0
+5.0,"Edison Software, Inc.","San Jose, CA",2025,Company - Private,Computer Hardware & Software,Information Technology,$1 to $5 million ,,1,,CA,Data Scientist,0,Medium Business,1,1,0,0,1,0,1,0,1,0,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,,1,,MA,Data Scientist,29,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.2,MITRE,"Bedford, MA",1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion ,81.0,132,106.5,VA,Data Scientist,67,Enterprise Business,1,1,1,0,1,0,1,0,1,1,1
+5.0,SkySync,"Ann Arbor, MI",2011,Company - Private,Computer Hardware & Software,Information Technology,Unknown,120.0,140,130.0,MI,Data Scientist,14,Medium Business,0,1,0,0,0,0,0,0,0,1,0
+4.3,"ConsultNet, LLC","South Jordan, UT",1996,Company - Private,Staffing & Outsourcing,Business Services,$50 to $100 million ,,1,,UT,Data Scientist,29,Large Business,1,0,0,0,1,0,1,0,1,1,0
+3.3,TriNet,"Dublin, CA",1988,Company - Public,Consulting,Business Services,$2 to $5 billion ,90.0,157,123.5,CA,Data Analyst,37,Enterprise Business,0,1,1,0,1,0,0,0,0,0,0
+4.3,Medidata Solutions,"New York, NY",1999,Company - Public,Enterprise Software & Network Solutions,Information Technology,$500 million to $1 billion ,63.0,110,86.5,NY,Data Engineer,26,Enterprise Business,0,1,0,0,1,1,0,0,0,0,0
+3.5,Central California Alliance for Health,"Scotts Valley, CA",1996,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$500 million to $1 billion ,42.0,86,64.0,CA,Data Analyst,29,Large Business,0,0,1,0,1,0,0,0,0,0,0
+3.9,Signpost,"New York, NY",2010,Company - Private,Internet,Information Technology,$10 to $25 million ,32.0,62,47.0,NY,Data Analyst,15,Large Business,0,0,0,0,1,0,0,0,1,0,0
+4.0,Adobe,"San Jose, CA",1982,Company - Public,Computer Hardware & Software,Information Technology,$5 to $10 billion ,116.0,208,162.0,CA,Data Scientist,43,Enterprise Business,1,1,1,1,1,0,1,0,0,1,0
+3.9,AstraZeneca,"Cambridge, United Kingdom",1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,107.0,173,140.0,MD,Data Scientist,112,Enterprise Business,1,1,0,0,0,0,0,0,0,1,0
+3.4,"DatamanUSA, LLC","Centennial, CO",2025,Company - Private,IT Services,Information Technology,$5 to $10 million ,65.0,113,89.0,WA,Data Scientist,0,Medium Business,0,0,0,0,0,0,0,0,0,0,0
+3.0,Pilot Flying J Travel Centers LLC,"Knoxville, TN",1958,Company - Private,Gas Stations,Retail,$10+ billion ,69.0,127,98.0,TN,Data Engineer,67,Enterprise Business,1,0,0,0,1,0,0,0,0,0,0
+2.3,UPM Pharmaceutical Inc,"Bristol, TN",2025,Contract,Other Industries,Other Sector,Unknown,,1,,TN,Data Scientist,0,Medium Business,0,1,0,0,0,0,0,0,0,0,0
+3.9,AstraZeneca,"Cambridge, United Kingdom",1913,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,102.0,172,137.0,NY,Data Scientist,112,Enterprise Business,1,0,0,0,0,0,0,0,0,1,0
+5.0,HireResources a Tailored Solutions Company (WO),"Monroe, CT",2002,Company - Private,Staffing & Outsourcing,Business Services,Unknown,,1,,VA,Data Scientist,23,Unknown,1,0,0,0,0,0,0,0,0,1,0
+5.0,Jobot,"Irvine, CA",2018,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million ,,1,,CA,Data Scientist,7,Medium Business,1,0,0,0,1,1,0,0,0,1,0
+4.0,Pinnacol Assurance,"Denver, CO",1915,Nonprofit Organization,Insurance Carriers,Insurance,$500 million to $1 billion ,74.0,124,99.0,CO,Data Engineer,110,Large Business,1,0,0,0,1,1,0,0,0,0,0
+3.6,"Creative Circle, LLC","Los Angeles, CA",2002,Company - Public,Staffing & Outsourcing,Business Services,Unknown,,1,,TX,Data Scientist,23,Large Business,0,0,1,0,0,0,0,0,0,0,0
+3.3,Palermo's Pizza,"Milwaukee, WI",1964,Company - Private,Food & Beverage Manufacturing,Manufacturing,Unknown,40.0,68,54.0,WI,Other,61,Large Business,0,0,0,0,0,0,0,0,0,0,0
+3.2,Equian LLC,"Indianapolis, IN",2004,Company - Private,Health Care Services & Hospitals,Health Care,Unknown,76.0,142,109.0,TN,Data Engineer,21,Enterprise Business,0,1,0,0,0,1,1,1,0,0,0
+3.4,MetroStar Systems,"Reston, VA",1999,Company - Private,IT Services,Information Technology,$25 to $50 million ,76.0,142,109.0,MD,Data Engineer,26,Large Business,0,0,0,0,0,1,0,0,0,0,0
+4.4,MathWorks,"Natick, MA",1984,Company - Private,Computer Hardware & Software,Information Technology,$1 to $2 billion ,108.0,171,139.5,MA,Data Scientist,41,Enterprise Business,1,0,1,1,1,0,0,0,0,0,1
+3.3,Liberty Mutual Insurance,"Boston, MA",1912,Company - Private,Insurance Carriers,Insurance,$10+ billion ,202.0,306,254.0,IL,Data Scientist,113,Enterprise Business,1,0,0,0,0,0,0,0,0,0,0
+3.2,Information Builders,"New York, NY",1975,Company - Private,Computer Hardware & Software,Information Technology,Unknown,91.0,159,125.0,NY,Machine Learning Engineer,50,Enterprise Business,1,1,0,0,1,1,0,1,0,1,0
+4.1,NJF Global Holdings,"London, United Kingdom",2003,Company - Private,Staffing & Outsourcing,Business Services,$10 to $25 million ,,1,,NY,Data Engineer,22,Medium Business,1,0,0,0,1,0,0,0,0,0,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,80.0,133,106.5,MA,Data Scientist,29,Enterprise Business,1,0,1,0,1,0,0,0,0,1,1
+5.0,Alector,"South San Francisco, CA",2013,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,,1,,CA,Other,12,Medium Business,0,1,0,0,1,1,0,0,0,0,0
+4.2,GTN Technical Staffing,"Dallas, TX",2000,Company - Private,Staffing & Outsourcing,Business Services,$25 to $50 million ,,1,,AZ,Data Scientist,25,Large Business,0,0,1,0,1,0,0,0,0,1,0
+3.6,Beebe Healthcare,"Lewes, DE",1935,Nonprofit Organization,Health Care Services & Hospitals,Health Care,$100 to $500 million ,44.0,71,57.5,DE,Other,90,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+2.9,Audentes Therapeutics,"San Francisco, CA",2012,Subsidiary or Business Segment,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,49.0,97,73.0,CA,Other,13,Large Business,0,0,0,0,0,0,0,0,0,0,0
+2.7,Advanced BioScience Laboratories,"Rockville, MD",1961,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$25 to $50 million ,49.0,113,81.0,MD,Other,64,Large Business,0,1,0,0,0,0,0,0,0,0,0
+4.7,"Steel Point Solutions, LLC","Calverton, MD",2013,Other Organization,Enterprise Software & Network Solutions,Information Technology,Unknown,,1,,VA,Data Scientist,12,Small Business,1,1,0,0,1,0,1,0,1,1,0
+4.2,The Church of Jesus Christ of Latter-day Saints,"Salt Lake City, UT",2025,Nonprofit Organization,Religious Organizations,Non-Profit,Unknown,,1,,UT,Data Engineer,0,Enterprise Business,0,1,1,1,1,0,0,0,0,1,0
+3.2,"Numeric, LLC","Chadds Ford, PA",2025,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million ,96.0,161,128.5,PA,Data Scientist,0,Small Business,1,0,0,0,1,1,1,0,1,1,0
+3.3,Miracle Software Systems,"Novi, MI",1994,Company - Private,IT Services,Information Technology,$50 to $100 million ,,1,,MI,Data Scientist,31,Medium Business,1,0,0,0,0,0,1,0,1,0,1
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,65.0,134,99.5,NC,Data Scientist,150,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.8,Novartis,"Basel, Switzerland",1996,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,,1,,MA,Data Scientist,29,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+4.0,23andMe,"Sunnyvale, CA",2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,59.0,125,92.0,CA,Other,19,Large Business,0,1,0,0,0,1,0,0,0,0,0
+3.3,National Interstate,"Richfield, OH",1989,Company - Private,Insurance Carriers,Insurance,$500 million to $1 billion ,32.0,59,45.5,OH,Data Analyst,36,Large Business,0,0,0,0,0,0,0,0,0,0,0
+4.5,Moser Consulting,"Indianapolis, IN",1996,Company - Private,Consulting,Business Services,$25 to $50 million ,87.0,158,122.5,IN,Data Engineer,29,Medium Business,1,0,0,0,1,1,1,1,1,1,0
+3.0,Greenway Health,"Tampa, FL",1977,Subsidiary or Business Segment,Enterprise Software & Network Solutions,Information Technology,$100 to $500 million ,27.0,48,37.5,FL,Data Analyst,48,Enterprise Business,0,1,0,0,1,0,0,0,0,0,0
+3.7,The Hanover Insurance Group,"Worcester, MA",1852,Company - Public,Insurance Carriers,Insurance,$5 to $10 billion ,39.0,69,54.0,MA,Data Analyst,173,Enterprise Business,0,0,0,0,1,0,0,0,0,0,0
+3.8,Fareportal,"New York, NY",2002,Company - Private,Travel Agencies,Travel & Tourism,$2 to $5 billion ,36.0,71,53.5,NY,Data Analyst,23,Enterprise Business,1,1,0,0,1,0,0,0,0,0,0
+3.9,TransUnion,"Chicago, IL",1968,Company - Public,Financial Analytics & Research,Finance,$1 to $2 billion ,107.0,173,140.0,IL,Data Scientist,57,Enterprise Business,1,1,0,0,1,0,0,0,0,1,0
+3.2,MITRE,"Bedford, MA",1958,Nonprofit Organization,Federal Agencies,Government,$1 to $2 billion ,56.0,99,77.5,VA,Data Scientist,67,Enterprise Business,0,0,0,0,0,0,0,0,0,0,0
+3.3,Mcphail Associates,"Cambridge, MA",1976,Company - Private,Construction,"Construction, Repair & Maintenance",Unknown,52.0,58,55.0,MA,Other,49,Small Business,0,1,0,0,0,0,0,0,0,0,0
+2.9,Pharmavite,"West Hills, CA",1971,Company - Private,Consumer Products Manufacturing,Manufacturing,$1 to $2 billion ,,1,,CA,Other,54,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.1,Reynolds American,"Winston-Salem, NC",1875,Company - Private,Consumer Products Manufacturing,Manufacturing,$10+ billion ,80.0,155,117.5,NC,Other,150,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+2.4,Crown Bioscience,"San Diego, CA",2006,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$50 to $100 million ,43.0,98,70.5,CA,Other,19,Large Business,0,0,0,0,0,0,0,0,0,0,0
+4.8,HOVER,"San Francisco, CA",2011,Company - Private,Computer Hardware & Software,Information Technology,$25 to $50 million ,45.0,78,61.5,CA,Data Analyst,14,Medium Business,0,1,1,0,1,0,0,0,0,0,0
+2.9,Q2 Solutions,"Morrisville, NC",2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,50.0,110,80.0,GA,Other,10,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+2.9,Q2 Solutions,"Morrisville, NC",2015,Company - Private,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,Unknown,44.0,96,70.0,NY,Other,10,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+0.0,Kronos Bio,"San Mateo, CA",2025,Company - Private,Other Industries,Other Sector,Unknown,100.0,140,120.0,MA,Data Scientist,0,Unknown,0,1,0,0,0,0,0,0,0,0,0
+3.4,Arbella Insurance,"Quincy, MA",1988,Company - Private,Insurance Carriers,Insurance,$100 to $500 million ,61.0,119,90.0,MA,Data Engineer,37,Enterprise Business,0,1,0,0,1,0,1,0,1,0,0
+4.1,CK-12 Foundation,"Palo Alto, CA",2007,Company - Private,KOther Industries2 Education,Education,Unknown,80.0,142,111.0,CA,Machine Learning Engineer,18,Small Business,1,1,0,0,0,1,0,0,0,1,0
+3.9,Life360,"San Francisco, CA",2008,Company - Public,Computer Hardware & Software,Information Technology,Unknown,99.0,178,138.5,CA,Data Analyst,17,Medium Business,1,0,1,0,1,0,0,0,0,0,0
+3.6,MassMutual,"Springfield, MA",1851,Company - Private,Insurance Carriers,Insurance,$10+ billion ,37.0,100,68.5,MA,Data Scientist,174,Enterprise Business,0,1,0,0,0,0,0,0,0,0,0
+3.9,Fivestars,"San Francisco, CA",2011,Company - Private,Internet,Information Technology,$100 to $500 million ,62.0,113,87.5,CA,Data Engineer,14,Large Business,1,1,0,0,1,1,0,0,0,0,0
+3.6,IQVIA,"Durham, NC",2017,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$2 to $5 billion ,86.0,137,111.5,PA,Data Scientist,8,Enterprise Business,0,0,0,0,0,0,0,0,0,1,0
+3.9,GSK,"Brentford, United Kingdom",1830,Company - Public,Biotech & Pharmaceuticals,Biotech & Pharmaceuticals,$10+ billion ,58.0,111,84.5,MA,Other,195,Enterprise Business,0,0,0,0,0,1,0,0,0,0,0
+4.4,Eventbrite,"San Francisco, CA",2006,Company - Public,Internet,Information Technology,$100 to $500 million ,72.0,133,102.5,TN,Data Engineer,19,Enterprise Business,1,0,0,0,1,1,1,0,1,1,0
+2.6,Software Engineering Institute,"Pittsburgh, PA",1984,College / University,Colleges & Universities,Education,Unknown,56.0,91,73.5,PA,Other,41,Large Business,0,1,0,0,0,0,0,0,0,1,0
+3.2,"Numeric, LLC","Chadds Ford, PA",2025,Company - Private,Staffing & Outsourcing,Business Services,$5 to $10 million ,95.0,160,127.5,PA,Data Scientist,0,Small Business,0,1,0,0,0,0,0,0,0,1,0
+4.8,IGNW,"Portland, OR",2015,Company - Private,IT Services,Information Technology,$25 to $50 million ,,1,,TX,Data Engineer,10,Large Business,1,0,0,0,1,0,0,0,0,0,0
+3.6,Riverside Research Institute,"Arlington, VA",1967,Nonprofit Organization,Federal Agencies,Government,$50 to $100 million ,61.0,126,93.5,OH,Data Scientist,58,Large Business,1,0,0,0,0,0,0,0,0,1,0
